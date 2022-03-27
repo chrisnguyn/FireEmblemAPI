@@ -1,0 +1,1287 @@
+[
+    {
+        "name": "Avatar",
+        "class": "Tactician",
+        "lv": 1,
+        "base_stats": {
+            "hp": 19,
+            "str": 6,
+            "mag": 5,
+            "skl": 5,
+            "spd": 6,
+            "lck": 4,
+            "def": 6,
+            "res": 4
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "E (+10)",
+            "Tome": "E (+10)"
+        },
+        "equipment": [
+            "Thunder",
+            "Bronze Sword"
+        ],
+        "skills": [
+            "Veteran"
+        ]
+    },
+    {
+        "name": "Chrom",
+        "class": "Lord",
+        "lv": 1,
+        "base_stats": {
+            "hp": 20,
+            "str": 7,
+            "mag": 1,
+            "skl": 8,
+            "spd": 8,
+            "lck": 5,
+            "def": 7,
+            "res": 1
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "E (+10)"
+        },
+        "equipment": [
+            "Falchion",
+            "Rapier",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Dual Strike+"
+        ]
+    },
+    {
+        "name": "Lissa",
+        "class": "Cleric",
+        "lv": 1,
+        "base_stats": {
+            "hp": 17,
+            "str": 1,
+            "mag": 5,
+            "skl": 4,
+            "spd": 4,
+            "lck": 8,
+            "def": 3,
+            "res": 4
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Staff": "E"
+        },
+        "equipment": [
+            "Heal",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Miracle"
+        ]
+    },
+    {
+        "name": "Frederick",
+        "class": "Great Knight",
+        "lv": 1,
+        "base_stats": {
+            "hp": 28,
+            "str": 13,
+            "mag": 2,
+            "skl": 12,
+            "spd": 10,
+            "lck": 6,
+            "def": 14,
+            "res": 3
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Sword": "D",
+            "Lance": "B",
+            "Axe": "D"
+        },
+        "equipment": [
+            "Silver Lance"
+        ],
+        "skills": [
+            "Discipline",
+            "Outdoor Fighter"
+        ]
+    },
+    {
+        "name": "Sully",
+        "class": "Cavalier",
+        "lv": 2,
+        "base_stats": {
+            "hp": 20,
+            "str": 7,
+            "mag": 1,
+            "skl": 8,
+            "spd": 8,
+            "lck": 6,
+            "def": 7,
+            "res": 2
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Sword": "E",
+            "Lance": "E (+20)"
+        },
+        "equipment": [
+            "Bronze Lance"
+        ],
+        "skills": [
+            "Discipline"
+        ]
+    },
+    {
+        "name": "Virion",
+        "class": "Archer",
+        "lv": 2,
+        "base_stats": {
+            "hp": 19,
+            "str": 6,
+            "mag": 0,
+            "skl": 9,
+            "spd": 5,
+            "lck": 7,
+            "def": 6,
+            "res": 1
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Bow": "D"
+        },
+        "equipment": [
+            "Iron Bow",
+            "Elixir"
+        ],
+        "skills": [
+            "Skill +2"
+        ]
+    },
+    {
+        "name": "Stahl",
+        "class": "Cavalier",
+        "lv": 2,
+        "base_stats": {
+            "hp": 22,
+            "str": 8,
+            "mag": 0,
+            "skl": 7,
+            "spd": 6,
+            "lck": 5,
+            "def": 8,
+            "res": 1
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Sword": "E (+20)",
+            "Lance": "E"
+        },
+        "equipment": [
+            "Bronze Sword"
+        ],
+        "skills": [
+            "Discipline"
+        ]
+    },
+    {
+        "name": "Vaike",
+        "class": "Fighter",
+        "lv": 3,
+        "base_stats": {
+            "hp": 24,
+            "str": 9,
+            "mag": 0,
+            "skl": 8,
+            "spd": 6,
+            "lck": 4,
+            "def": 5,
+            "res": 0
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Axe": "D"
+        },
+        "skills": [
+            "HP +5"
+        ]
+    },
+    {
+        "name": "Miriel",
+        "class": "Mage",
+        "lv": 1,
+        "base_stats": {
+            "hp": 18,
+            "str": 0,
+            "mag": 6,
+            "skl": 5,
+            "spd": 7,
+            "lck": 6,
+            "def": 3,
+            "res": 4
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Tome": "E (+10)"
+        },
+        "equipment": [
+            "Fire",
+            "Iron Axe"
+        ],
+        "skills": [
+            "Magic +2"
+        ]
+    },
+    {
+        "name": "Sumia",
+        "class": "Pegasus Knight",
+        "lv": 1,
+        "base_stats": {
+            "hp": 18,
+            "str": 6,
+            "mag": 3,
+            "skl": 11,
+            "spd": 11,
+            "lck": 8,
+            "def": 5,
+            "res": 7
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Lance": "D"
+        },
+        "equipment": [
+            "Iron Lance",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Speed +2"
+        ]
+    },
+    {
+        "name": "Kellam",
+        "class": "Knight",
+        "lv": 5,
+        "base_stats": {
+            "hp": 21,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 5,
+            "lck": 3,
+            "def": 12,
+            "res": 2
+        },
+        "mov": 4,
+        "weapon_ranks": {
+            "Lance": "D"
+        },
+        "equipment": [
+            "Iron Lance",
+            "Javelin",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Defence +2"
+        ]
+    },
+    {
+        "name": "Donnel",
+        "class": "Villager",
+        "lv": 1,
+        "base_stats": {
+            "hp": 16,
+            "str": 4,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 11,
+            "def": 3,
+            "res": 0
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Lance": "E"
+        },
+        "equipment": [
+            "Bronze Lance",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Aptitude"
+        ]
+    },
+    {
+        "name": "Lon'qu",
+        "class": "Myrmidon",
+        "lv": 4,
+        "base_stats": {
+            "hp": 20,
+            "str": 6,
+            "mag": 1,
+            "skl": 12,
+            "spd": 13,
+            "lck": 7,
+            "def": 7,
+            "res": 2
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Killing Edge"
+        ],
+        "skills": [
+            "Avoid +10"
+        ]
+    },
+    {
+        "name": "Ricken",
+        "class": "Mage",
+        "lv": 3,
+        "base_stats": {
+            "hp": 20,
+            "str": 3,
+            "mag": 8,
+            "skl": 6,
+            "spd": 5,
+            "lck": 10,
+            "def": 6,
+            "res": 3
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Tome": "D"
+        },
+        "equipment": [
+            "Elwind"
+        ],
+        "skills": [
+            "Magic +2"
+        ]
+    },
+    {
+        "name": "Maribelle",
+        "class": "Troubadour",
+        "lv": 3,
+        "base_stats": {
+            "hp": 18,
+            "str": 0,
+            "mag": 5,
+            "skl": 4,
+            "spd": 6,
+            "lck": 5,
+            "def": 3,
+            "res": 6
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Staff": "D"
+        },
+        "equipment": [
+            "Mend",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Resistance +2"
+        ]
+    },
+    {
+        "name": "Panne",
+        "class": "Taguel",
+        "lv": 6,
+        "base_stats": {
+            "hp": 28,
+            "str": 8,
+            "mag": 1,
+            "skl": 9,
+            "spd": 10,
+            "lck": 8,
+            "def": 7,
+            "res": 3
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Stone": "-"
+        },
+        "equipment": [
+            "Beaststone",
+            "Concoction"
+        ],
+        "skills": [
+            "Even Rhythm"
+        ]
+    },
+    {
+        "name": "Gaius",
+        "class": "Thief",
+        "lv": 5,
+        "base_stats": {
+            "hp": 22,
+            "str": 7,
+            "mag": 0,
+            "skl": 13,
+            "spd": 15,
+            "lck": 6,
+            "def": 5,
+            "res": 2
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "D (+20)"
+        },
+        "equipment": [
+            "Iron Sword"
+        ],
+        "skills": [
+            "Locktouch"
+        ]
+    },
+    {
+        "name": "Cordelia",
+        "class": "Pegasus Knight",
+        "lv": 7,
+        "base_stats": {
+            "hp": 25,
+            "str": 9,
+            "mag": 3,
+            "skl": 13,
+            "spd": 12,
+            "lck": 9,
+            "def": 8,
+            "res": 8
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Lance": "C"
+        },
+        "equipment": [
+            "Steel Lance",
+            "Javelin",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Speed +2"
+        ]
+    },
+    {
+        "name": "Gregor",
+        "class": "Mercenary",
+        "lv": 10,
+        "base_stats": {
+            "hp": 30,
+            "str": 12,
+            "mag": 0,
+            "skl": 13,
+            "spd": 11,
+            "lck": 8,
+            "def": 10,
+            "res": 2
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Steel Sword",
+            "Vulnerary"
+        ],
+        "skills": [
+            "Armsthrift",
+            "Patience"
+        ]
+    },
+    {
+        "name": "Nowi",
+        "class": "Manakete",
+        "lv": 3,
+        "base_stats": {
+            "hp": 18,
+            "str": 4,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 8,
+            "def": 2,
+            "res": 2
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Stone": "-"
+        },
+        "equipment": [
+            "Dragonstone"
+        ],
+        "skills": [
+            "Odd Rhythm"
+        ]
+    },
+    {
+        "name": "Libra",
+        "class": "War Monk",
+        "lv": 1,
+        "base_stats": {
+            "hp": 38,
+            "str": 14,
+            "mag": 15,
+            "skl": 13,
+            "spd": 13,
+            "lck": 10,
+            "def": 11,
+            "res": 16
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Axe": "C",
+            "Staff": "C"
+        },
+        "equipment": [
+            "Killer Axe",
+            "Mend",
+            "Ward",
+            "Concoction"
+        ],
+        "skills": [
+            "Healtouch",
+            "Miracle"
+        ]
+    },
+    {
+        "name": "Tharja",
+        "class": "Dark Mage",
+        "lv": 10,
+        "base_stats": {
+            "hp": 25,
+            "str": 4,
+            "mag": 11,
+            "skl": 5,
+            "spd": 12,
+            "lck": 3,
+            "def": 10,
+            "res": 7
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Tome": "D"
+        },
+        "equipment": [
+            "Elthunder",
+            "Nosferatu"
+        ],
+        "skills": [
+            "Hex",
+            "Anathema"
+        ]
+    },
+    {
+        "name": "Anna",
+        "class": "Trickster",
+        "lv": 1,
+        "base_stats": {
+            "hp": 35,
+            "str": 12,
+            "mag": 17,
+            "skl": 22,
+            "spd": 21,
+            "lck": 25,
+            "def": 8,
+            "res": 10
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "C",
+            "Staff": "D"
+        },
+        "equipment": [
+            "Steel Sword",
+            "Heal",
+            "Concoction"
+        ],
+        "skills": [
+            "Movement +1",
+            "Locktouch"
+        ]
+    },
+    {
+        "name": "Olivia",
+        "class": "Dancer",
+        "lv": 1,
+        "base_stats": {
+            "hp": 18,
+            "str": 3,
+            "mag": 1,
+            "skl": 8,
+            "spd": 9,
+            "lck": 5,
+            "def": 3,
+            "res": 2
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "D"
+        },
+        "equipment": [
+            "Iron Sword",
+            "Concoction"
+        ],
+        "skills": [
+            "Luck +4"
+        ]
+    },
+    {
+        "name": "Cherche",
+        "class": "Wyvern Rider",
+        "lv": 12,
+        "base_stats": {
+            "hp": 30,
+            "str": 14,
+            "mag": 1,
+            "skl": 12,
+            "spd": 11,
+            "lck": 8,
+            "def": 15,
+            "res": 2
+        },
+        "mov": 7,
+        "weapon_ranks": {
+            "Axe": "C"
+        },
+        "equipment": [
+            "Steel Axe",
+            "Hammer"
+        ],
+        "skills": [
+            "Strength +2",
+            "Tantivy"
+        ]
+    },
+    {
+        "name": "Henry",
+        "class": "Dark Mage",
+        "lv": 12,
+        "base_stats": {
+            "hp": 28,
+            "str": 6,
+            "mag": 13,
+            "skl": 14,
+            "spd": 8,
+            "lck": 10,
+            "def": 12,
+            "res": 5
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Tome": "C"
+        },
+        "equipment": [
+            "Ruin",
+            "Elfire",
+            "Concoction"
+        ],
+        "skills": [
+            "Hex",
+            "Anathema"
+        ]
+    },
+    {
+        "name": "Say'ri",
+        "class": "Swordmaster",
+        "lv": 1,
+        "base_stats": {
+            "hp": 39,
+            "str": 17,
+            "mag": 7,
+            "skl": 23,
+            "spd": 26,
+            "lck": 20,
+            "def": 12,
+            "res": 10
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "B"
+        },
+        "equipment": [
+            "Concoction"
+        ],
+        "skills": [
+            "Avoid +10",
+            "Vantage"
+        ]
+    },
+    {
+        "name": "Tiki",
+        "class": "Manakete",
+        "lv": 20,
+        "base_stats": {
+            "hp": 39,
+            "str": 18,
+            "mag": 10,
+            "skl": 14,
+            "spd": 16,
+            "lck": 18,
+            "def": 15,
+            "res": 12
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Stone": "-"
+        },
+        "equipment": [
+            "Dragonstone+"
+        ],
+        "skills": [
+            "Odd Rhythm",
+            "Wyrmsbane"
+        ]
+    },
+    {
+        "name": "Basilio",
+        "class": "Warrior",
+        "lv": 10,
+        "base_stats": {
+            "hp": 56,
+            "str": 30,
+            "mag": 3,
+            "skl": 25,
+            "spd": 21,
+            "lck": 18,
+            "def": 20,
+            "res": 8
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Axe": "A",
+            "Bow": "B"
+        },
+        "equipment": [
+            "Silver Axe",
+            "Hammer",
+            "Silver Bow"
+        ],
+        "skills": [
+            "HP +5",
+            "Zeal",
+            "Rally Strength"
+        ]
+    },
+    {
+        "name": "Flavia",
+        "class": "Hero",
+        "lv": 10,
+        "base_stats": {
+            "hp": 48,
+            "str": 25,
+            "mag": 5,
+            "skl": 28,
+            "spd": 26,
+            "lck": 21,
+            "def": 23,
+            "res": 11
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "A",
+            "Axe": "B"
+        },
+        "equipment": [
+            "Silver Sword",
+            "Short Axe"
+        ],
+        "skills": [
+            "Armsthrift",
+            "Patience",
+            "Sol"
+        ]
+    },
+    {
+        "name": "Lucina",
+        "class": "Lord",
+        "lv": 10,
+        "base_stats": {
+            "hp": 12,
+            "str": 5,
+            "mag": 1,
+            "skl": 8,
+            "spd": 4,
+            "lck": 13,
+            "def": 3,
+            "res": 3
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Parallel Falchion",
+            "Rapier"
+        ],
+        "skills": [
+            "Dual Strike+",
+            "Charm",
+            "Aether *1"
+        ]
+    },
+    {
+        "name": "Owain",
+        "class": "Myrmidon",
+        "lv": 10,
+        "base_stats": {
+            "hp": 10,
+            "str": 4,
+            "mag": 4,
+            "skl": 5,
+            "spd": 6,
+            "lck": 9,
+            "def": 6,
+            "res": 5
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Steel Sword"
+        ],
+        "skills": [
+            "Avoid +10",
+            "Vantage"
+        ]
+    },
+    {
+        "name": "Inigo",
+        "class": "Mercenary",
+        "lv": 10,
+        "base_stats": {
+            "hp": 11,
+            "str": 5,
+            "mag": 2,
+            "skl": 4,
+            "spd": 9,
+            "lck": 12,
+            "def": 4,
+            "res": 4
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Killing Edge",
+            "Concoction"
+        ],
+        "skills": [
+            "Armsthrift",
+            "Patience"
+        ]
+    },
+    {
+        "name": "Brady",
+        "class": "Priest",
+        "lv": 10,
+        "base_stats": {
+            "hp": 9,
+            "str": 6,
+            "mag": 5,
+            "skl": 4,
+            "spd": 2,
+            "lck": 10,
+            "def": 7,
+            "res": 4
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Staff": "D"
+        },
+        "equipment": [
+            "Mend",
+            "Concoction"
+        ],
+        "skills": [
+            "Miracle",
+            "Healtouch"
+        ]
+    },
+    {
+        "name": "Kjelle",
+        "class": "Knight",
+        "lv": 10,
+        "base_stats": {
+            "hp": 10,
+            "str": 6,
+            "mag": 2,
+            "skl": 6,
+            "spd": 5,
+            "lck": 11,
+            "def": 3,
+            "res": 3
+        },
+        "mov": 4,
+        "weapon_ranks": {
+            "Lance": "C"
+        },
+        "equipment": [
+            "Steel Lance",
+            "Concoction"
+        ],
+        "skills": [
+            "Defence +2",
+            "Indoor Fighter"
+        ]
+    },
+    {
+        "name": "Cynthia",
+        "class": "Pegasus Knight",
+        "lv": 10,
+        "base_stats": {
+            "hp": 7,
+            "str": 5,
+            "mag": 2,
+            "skl": 4,
+            "spd": 10,
+            "lck": 17,
+            "def": 6,
+            "res": 6
+        },
+        "mov": 8,
+        "weapon_ranks": {
+            "Lance": "C"
+        },
+        "equipment": [
+            "Steel Lance"
+        ],
+        "skills": [
+            "Speed +2",
+            "Relief"
+        ]
+    },
+    {
+        "name": "Severa",
+        "class": "Mercenary",
+        "lv": 10,
+        "base_stats": {
+            "hp": 8,
+            "str": 6,
+            "mag": 1,
+            "skl": 7,
+            "spd": 6,
+            "lck": 6,
+            "def": 6,
+            "res": 5
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Sword": "C"
+        },
+        "equipment": [
+            "Steel Sword"
+        ],
+        "skills": [
+            "Armsthrift",
+            "Patience"
+        ]
+    },
+    {
+        "name": "Gerome",
+        "class": "Wyvern Rider",
+        "lv": 10,
+        "base_stats": {
+            "hp": 13,
+            "str": 8,
+            "mag": 0,
+            "skl": 4,
+            "spd": 8,
+            "lck": 5,
+            "def": 5,
+            "res": 1
+        },
+        "mov": 8,
+        "weapon_ranks": {
+            "Axe": "C"
+        },
+        "equipment": [
+            "Steel Axe",
+            "Concoction"
+        ],
+        "skills": [
+            "Strength +2",
+            "Tantivy"
+        ]
+    },
+    {
+        "name": "Yarne",
+        "class": "Taguel",
+        "lv": 10,
+        "base_stats": {
+            "hp": 16,
+            "str": 9,
+            "mag": 1,
+            "skl": 4,
+            "spd": 4,
+            "lck": 13,
+            "def": 6,
+            "res": 1
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Bow": "-"
+        },
+        "equipment": [
+            "Beaststone",
+            "Elixir"
+        ],
+        "skills": [
+            "Even Rhythm"
+        ]
+    },
+    {
+        "name": "Laurent",
+        "class": "Mage",
+        "lv": 10,
+        "base_stats": {
+            "hp": 10,
+            "str": 3,
+            "mag": 7,
+            "skl": 7,
+            "spd": 4,
+            "lck": 11,
+            "def": 4,
+            "res": 5
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Tome": "C"
+        },
+        "equipment": [
+            "Elwind"
+        ],
+        "skills": [
+            "Magic +2",
+            "Focus"
+        ]
+    },
+    {
+        "name": "Noire",
+        "class": "Archer",
+        "lv": 10,
+        "base_stats": {
+            "hp": 8,
+            "str": 5,
+            "mag": 3,
+            "skl": 4,
+            "spd": 7,
+            "lck": 10,
+            "def": 4,
+            "res": 6
+        },
+        "mov": 5,
+        "weapon_ranks": {
+            "Bow": "C"
+        },
+        "equipment": [
+            "Steel Bow"
+        ],
+        "skills": [
+            "Skill +2",
+            "Prescience"
+        ]
+    },
+    {
+        "name": "Nah",
+        "class": "Manakete",
+        "lv": 10,
+        "base_stats": {
+            "hp": 5,
+            "str": 3,
+            "mag": 3,
+            "skl": 5,
+            "spd": 6,
+            "lck": 8,
+            "def": 3,
+            "res": 3
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Bow": "-"
+        },
+        "equipment": [
+            "Dragonstone"
+        ],
+        "skills": [
+            "Odd Rhythm"
+        ]
+    },
+    {
+        "name": "Gangrel",
+        "class": "Trickster",
+        "lv": 15,
+        "base_stats": {
+            "hp": 49,
+            "str": 21,
+            "mag": 20,
+            "skl": 29,
+            "spd": 33,
+            "lck": 15,
+            "def": 18,
+            "res": 17
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "B",
+            "Staff": "C"
+        },
+        "equipment": [
+            "Levin Sword"
+        ],
+        "skills": [
+            "Movement +1",
+            "Locktouch",
+            "Lucky Seven",
+            "Acrobat"
+        ]
+    },
+    {
+        "name": "Walhart",
+        "class": "Conqueror",
+        "lv": 30,
+        "base_stats": {
+            "hp": 71,
+            "str": 39,
+            "mag": 15,
+            "skl": 33,
+            "spd": 32,
+            "lck": 30,
+            "def": 35,
+            "res": 19
+        },
+        "mov": 8,
+        "weapon_ranks": {
+            "Sword": "A",
+            "Lance": "A",
+            "Axe": "A"
+        },
+        "equipment": [
+            "Wolf Berg"
+        ],
+        "skills": [
+            "Conquest"
+        ]
+    },
+    {
+        "name": "Emmeryn",
+        "class": "Sage",
+        "lv": 10,
+        "base_stats": {
+            "hp": 42,
+            "str": 5,
+            "mag": 26,
+            "skl": 23,
+            "spd": 25,
+            "lck": 13,
+            "def": 12,
+            "res": 20
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Tome": "C",
+            "Staff": "A"
+        },
+        "skills": [
+            "Magic +2",
+            "Focus",
+            "Rally Magic"
+        ]
+    },
+    {
+        "name": "Yen'fay",
+        "class": "Swordmaster",
+        "lv": 20,
+        "base_stats": {
+            "hp": 60,
+            "str": 30,
+            "mag": 5,
+            "skl": 39,
+            "spd": 40,
+            "lck": 28,
+            "def": 21,
+            "res": 18
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "A"
+        },
+        "equipment": [
+            "Killing Edge"
+        ],
+        "skills": [
+            "Avoid +10",
+            "Swordfaire",
+            "Vantage",
+            "Astra"
+        ]
+    },
+    {
+        "name": "Aversa",
+        "class": "Dark Flier",
+        "lv": 20,
+        "base_stats": {
+            "hp": 55,
+            "str": 24,
+            "mag": 31,
+            "skl": 29,
+            "spd": 32,
+            "lck": 26,
+            "def": 21,
+            "res": 28
+        },
+        "mov": 8,
+        "weapon_ranks": {
+            "Lance": "B",
+            "Tome": "A"
+        },
+        "equipment": [
+            "Bolganone",
+            "Nosferatu"
+        ],
+        "skills": [
+            "Speed +2",
+            "Relief",
+            "Rally Movement",
+            "Galeforce",
+            "Shadowgift"
+        ]
+    },
+    {
+        "name": "Priam",
+        "class": "Hero",
+        "lv": 20,
+        "base_stats": {
+            "hp": 74,
+            "str": 40,
+            "mag": 3,
+            "skl": 44,
+            "spd": 38,
+            "lck": 35,
+            "def": 39,
+            "res": 25
+        },
+        "mov": 6,
+        "weapon_ranks": {
+            "Sword": "A",
+            "Axe": "B"
+        },
+        "equipment": [
+            "Ragnell",
+            "Tomahawk"
+        ],
+        "skills": [
+            "Swordbreaker",
+            "Lancebreaker",
+            "Axebreaker",
+            "Sol",
+            "Luna"
+        ]
+    }
+]
