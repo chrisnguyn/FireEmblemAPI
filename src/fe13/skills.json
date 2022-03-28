@@ -1,0 +1,715 @@
+[
+    {
+        "skill": "Dual Strike+",
+        "effect": "Adds 10% to the Dual Strike rate",
+        "activation": "-",
+        "class": "Lord",
+        "level": 1
+    },
+    {
+        "skill": "Charm",
+        "effect": "Hit rate and Avoid +5 to all allies within a 3 tile radius",
+        "activation": "-",
+        "class": "Lord",
+        "level": 10
+    },
+    {
+        "skill": "Aether",
+        "effect": "Attack twice consecutively, with the first strike having a Sol effect and the second strike having a Luna effect",
+        "activation": "Skill/2%",
+        "class": "Great Lord",
+        "level": 5
+    },
+    {
+        "skill": "Rightful King",
+        "effect": "Adds 10% to Skill activation rates",
+        "activation": "-",
+        "class": "Great Lord",
+        "level": 15
+    },
+    {
+        "skill": "Veteran",
+        "effect": "Experience gain x 1.5 when paired up",
+        "activation": "-",
+        "class": "Tactician",
+        "level": 1
+    },
+    {
+        "skill": "Solidarity",
+        "effect": "Critical and Critical Avoid +10 to adjacent allies",
+        "activation": "-",
+        "class": "Tactician",
+        "level": 10
+    },
+    {
+        "skill": "Ignis",
+        "effect": "Adds (Magic)/2 to Strength when dealing physical damage and (Strength)/2 to Magic when dealing magical damage",
+        "activation": "Skill%",
+        "class": "Grandmaster",
+        "level": 5
+    },
+    {
+        "skill": "Rally Spectrum",
+        "effect": "All stats *1 +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Grandmaster",
+        "level": 15
+    },
+    {
+        "skill": "Discipline",
+        "effect": "Weapon experience x2",
+        "activation": "-",
+        "class": "Cavalier",
+        "level": 1
+    },
+    {
+        "skill": "Outdoor Fighter",
+        "effect": "Hit rate and Avoid +10 when fighting outdoors",
+        "activation": "-",
+        "class": "Cavalier",
+        "level": 10
+    },
+    {
+        "skill": "Defender",
+        "effect": "All stats *1 +1 when paired up",
+        "activation": "-",
+        "class": "Paladin",
+        "level": 5
+    },
+    {
+        "skill": "Aegis",
+        "effect": "Halves damage from bows, tomes and dragonstones *2",
+        "activation": "Skill%",
+        "class": "Paladin",
+        "level": 15
+    },
+    {
+        "skill": "Luna",
+        "effect": "Ignores half the enemy's Defence or Resistance",
+        "activation": "Skill%",
+        "class": "Great Knight",
+        "level": 5
+    },
+    {
+        "skill": "Dual Guard+",
+        "effect": "Adds 10% to the Dual Guard rate",
+        "activation": "-",
+        "class": "Great Knight",
+        "level": 15
+    },
+    {
+        "skill": "Defence +2",
+        "effect": "Defence +2",
+        "activation": "-",
+        "class": "Knight",
+        "level": 1
+    },
+    {
+        "skill": "Indoor Fighter",
+        "effect": "Hit rate and Avoid +10 when fighting indoors",
+        "activation": "-",
+        "class": "Knight",
+        "level": 10
+    },
+    {
+        "skill": "Rally Defence",
+        "effect": "Defence +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "General",
+        "level": 5
+    },
+    {
+        "skill": "Pavise",
+        "effect": "Halves damage from swords, lances, axes (includes magical variants) and beaststones *2",
+        "activation": "Skill%",
+        "class": "General",
+        "level": 15
+    },
+    {
+        "skill": "Avoid +10",
+        "effect": "Avoid +10",
+        "activation": "-",
+        "class": "Myrmidon",
+        "level": 1
+    },
+    {
+        "skill": "Vantage",
+        "effect": "When HP under half, always attack first during the enemy's Turn",
+        "activation": "-",
+        "class": "Myrmidon",
+        "level": 10
+    },
+    {
+        "skill": "Astra",
+        "effect": "Deals 5 consecutive hits with half damage",
+        "activation": "Skill/2%",
+        "class": "Swordmaster",
+        "level": 5
+    },
+    {
+        "skill": "Swordfaire",
+        "effect": "Strength +5 when equipped with a sword (Magic +5 when equipped with the Levin Sword)",
+        "activation": "-",
+        "class": "Swordmaster",
+        "level": 15
+    },
+    {
+        "skill": "Armsthrift",
+        "effect": "Attack does not reduce weapon usage",
+        "activation": "Luck*2%",
+        "class": "Mercenary",
+        "level": 1
+    },
+    {
+        "skill": "Patience",
+        "effect": "Hit rate and Avoid +10 during the enemy's Turn",
+        "activation": "-",
+        "class": "Mercenary",
+        "level": 10
+    },
+    {
+        "skill": "Sol",
+        "effect": "Recover HP equal to half the damage dealt to the enemy",
+        "activation": "Skill%",
+        "class": "Hero",
+        "level": 5
+    },
+    {
+        "skill": "Axebreaker",
+        "effect": "Hit rate and Avoid +50 when the enemy is equipped with an axe",
+        "activation": "-",
+        "class": "Hero",
+        "level": 15
+    },
+    {
+        "skill": "HP +5",
+        "effect": "Maximum HP +5",
+        "activation": "-",
+        "class": "Fighter",
+        "level": 1
+    },
+    {
+        "skill": "Zeal",
+        "effect": "Critical +5",
+        "activation": "-",
+        "class": "Fighter",
+        "level": 10
+    },
+    {
+        "skill": "Rally Strength",
+        "effect": "Strength +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Warrior",
+        "level": 5
+    },
+    {
+        "skill": "Counter",
+        "effect": "Returns damage when attacked by an adjacent enemy (except damage that KOs the user) *2",
+        "activation": "-",
+        "class": "Warrior",
+        "level": 15
+    },
+    {
+        "skill": "Despoil",
+        "effect": "Obtain Bullion (S) from the enemy if the user defeats the enemy",
+        "activation": "Luck%",
+        "class": "Barbarian",
+        "level": 1
+    },
+    {
+        "skill": "Gamble",
+        "effect": "Hit rate -5, Critical +10",
+        "activation": "-",
+        "class": "Barbarian",
+        "level": 10
+    },
+    {
+        "skill": "Wrath",
+        "effect": "Critical +20 when under half HP",
+        "activation": "-",
+        "class": "Berserker",
+        "level": 5
+    },
+    {
+        "skill": "Axefaire",
+        "effect": "Strength +5 when equipped with an axe (Magic +5 when equipped with the Bolt Axe)",
+        "activation": "-",
+        "class": "Berserker",
+        "level": 15
+    },
+    {
+        "skill": "Skill +2",
+        "effect": "Skill +2",
+        "activation": "-",
+        "class": "Archer",
+        "level": 1
+    },
+    {
+        "skill": "Prescience",
+        "effect": "Hit rate and Avoid +15 during the user's Turn",
+        "activation": "-",
+        "class": "Archer",
+        "level": 10
+    },
+    {
+        "skill": "Hit Rate +20",
+        "effect": "Hit rate +20",
+        "activation": "-",
+        "class": "Sniper",
+        "level": 5
+    },
+    {
+        "skill": "Bowfaire",
+        "effect": "Strength +5 when equipped with a bow",
+        "activation": "-",
+        "class": "Sniper",
+        "level": 15
+    },
+    {
+        "skill": "Rally Skill",
+        "effect": "Skill +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Bow Knight",
+        "level": 5
+    },
+    {
+        "skill": "Bowbreaker",
+        "effect": "Hit rate and Avoid +50 when the enemy is equipped with a bow",
+        "activation": "-",
+        "class": "Bow Knight",
+        "level": 15
+    },
+    {
+        "skill": "Locktouch",
+        "effect": "Open doors and chests without the need of keys",
+        "activation": "-",
+        "class": "Thief",
+        "level": 1
+    },
+    {
+        "skill": "Movement +1",
+        "effect": "Movement +1",
+        "activation": "-",
+        "class": "Thief",
+        "level": 10
+    },
+    {
+        "skill": "Lethality",
+        "effect": "Instantly defeats the enemy",
+        "activation": "Skill/4%",
+        "class": "Assassin",
+        "level": 5
+    },
+    {
+        "skill": "Pass",
+        "effect": "User can pass through tiles occupied by enemy units",
+        "activation": "-",
+        "class": "Assassin",
+        "level": 15
+    },
+    {
+        "skill": "Lucky Seven",
+        "effect": "Hit rate and Avoid +20 up to the 7th Turn",
+        "activation": "-",
+        "class": "Trickster",
+        "level": 5
+    },
+    {
+        "skill": "Acrobat",
+        "effect": "All traversable terrain costs 1 movement point to cross",
+        "activation": "-",
+        "class": "Trickster",
+        "level": 15
+    },
+    {
+        "skill": "Speed +2",
+        "effect": "Speed +2",
+        "activation": "-",
+        "class": "Pegasus Knight",
+        "level": 1
+    },
+    {
+        "skill": "Relief",
+        "effect": "Recover 20% HP at the start of the user's Turn if no units are within a 3 tile radius",
+        "activation": "-",
+        "class": "Pegasus Knight",
+        "level": 10
+    },
+    {
+        "skill": "Rally Speed",
+        "effect": "Speed +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Falcon Knight",
+        "level": 5
+    },
+    {
+        "skill": "Lancefaire",
+        "effect": "Strength +5 when equipped with a lance (Magic +5 when equipped with the Shockstick)",
+        "activation": "-",
+        "class": "Falcon Knight",
+        "level": 15
+    },
+    {
+        "skill": "Rally Movement",
+        "effect": "Movement +1 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Dark Flier",
+        "level": 5
+    },
+    {
+        "skill": "Galeforce",
+        "effect": "Allows the user another full action after they defeat an enemy during the user's Turn (only once per Turn)",
+        "activation": "-",
+        "class": "Dark Flier",
+        "level": 15
+    },
+    {
+        "skill": "Strength +2",
+        "effect": "Strength +2",
+        "activation": "-",
+        "class": "Wyvern Rider",
+        "level": 1
+    },
+    {
+        "skill": "Tantivy",
+        "effect": "Hit rate and Avoid +10 if no allies within a 3 tile radius",
+        "activation": "-",
+        "class": "Wyvern Rider",
+        "level": 10
+    },
+    {
+        "skill": "Quick Burn",
+        "effect": "Hit rate and Avoid +15 at the start of the chapter. Effect decreases with each passing Turn",
+        "activation": "-",
+        "class": "Wyvern Lord",
+        "level": 5
+    },
+    {
+        "skill": "Swordbreaker",
+        "effect": "Hit rate and Avoid +50 when the enemy is equipped with a sword",
+        "activation": "-",
+        "class": "Wyvern Lord",
+        "level": 15
+    },
+    {
+        "skill": "Deliverer",
+        "effect": "Movement +2 when paired up",
+        "activation": "-",
+        "class": "Griffon Rider",
+        "level": 5
+    },
+    {
+        "skill": "Lancebreaker",
+        "effect": "Hit rate and Avoid +50 when the enemy is equipped with a lance",
+        "activation": "-",
+        "class": "Griffon Rider",
+        "level": 15
+    },
+    {
+        "skill": "Magic +2",
+        "effect": "Magic +2",
+        "activation": "-",
+        "class": "Mage",
+        "level": 1
+    },
+    {
+        "skill": "Focus",
+        "effect": "Critical +10 when no allies within a 3 tile radius",
+        "activation": "-",
+        "class": "Mage",
+        "level": 10
+    },
+    {
+        "skill": "Rally Magic",
+        "effect": "Magic +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Sage",
+        "level": 5
+    },
+    {
+        "skill": "Tomefaire",
+        "effect": "Magic +5 when equipped with a Tome",
+        "activation": "-",
+        "class": "Sage",
+        "level": 15
+    },
+    {
+        "skill": "Hex",
+        "effect": "Avoid -15 to all adjacent enemies",
+        "activation": "-",
+        "class": "Dark Mage",
+        "level": 1
+    },
+    {
+        "skill": "Anathema",
+        "effect": "Avoid and Critical Avoid -10 to all enemies within a 3 tile radius",
+        "activation": "-",
+        "class": "Dark Mage",
+        "level": 10
+    },
+    {
+        "skill": "Vengeance",
+        "effect": "Deals (user's Max HP - Current HP)/2 extra damage",
+        "activation": "Skill*2%",
+        "class": "Sorcerer",
+        "level": 5
+    },
+    {
+        "skill": "Tomebreaker",
+        "effect": "Hit rate and Avoid +50 when the enemy is equipped with a tome",
+        "activation": "-",
+        "class": "Sorcerer",
+        "level": 15
+    },
+    {
+        "skill": "Slow Burn",
+        "effect": "Hit rate and Avoid increases by 1 each Turn, up to the 15th Turn",
+        "activation": "-",
+        "class": "Dark Knight",
+        "level": 5
+    },
+    {
+        "skill": "Lifetaker",
+        "effect": "User recovers 50% HP after they defeat an enemy during the user's Turn",
+        "activation": "-",
+        "class": "Dark Knight",
+        "level": 15
+    },
+    {
+        "skill": "Miracle",
+        "effect": "Character survives with 1 HP after receiving an attack that would otherwise KO them (must have over 1 HP)",
+        "activation": "Luck%",
+        "class": "Priest, Cleric",
+        "level": 1
+    },
+    {
+        "skill": "Healtouch",
+        "effect": "Restores an extra 5 HP when healing allies",
+        "activation": "-",
+        "class": "Priest, Cleric",
+        "level": 10
+    },
+    {
+        "skill": "Rally Luck",
+        "effect": "Luck +8 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "War Monk, War Cleric",
+        "level": 5
+    },
+    {
+        "skill": "Renewal",
+        "effect": "Recover 30% HP at the start of the user's Turn",
+        "activation": "-",
+        "class": "War Monk, War Cleric",
+        "level": 15
+    },
+    {
+        "skill": "Resistance +2",
+        "effect": "Resistance +2",
+        "activation": "-",
+        "class": "Troubadour",
+        "level": 1
+    },
+    {
+        "skill": "Demoiselle",
+        "effect": "Avoid and Critical Avoid +10 to all male allies within a 3 tile radius",
+        "activation": "-",
+        "class": "Troubadour",
+        "level": 10
+    },
+    {
+        "skill": "Rally Resistance",
+        "effect": "Resistance +4 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Valkyrie",
+        "level": 5
+    },
+    {
+        "skill": "Dual Support+",
+        "effect": "Increases the support bonus effect",
+        "activation": "-",
+        "class": "Valkyrie",
+        "level": 15
+    },
+    {
+        "skill": "Aptitude",
+        "effect": "Adds 20% to all growth rates during Level Ups",
+        "activation": "-",
+        "class": "Villager",
+        "level": 1
+    },
+    {
+        "skill": "Underdog",
+        "effect": "Hit rate and Avoid +15 when user's Level is lower than the enemy (promoted units count as Level +20)",
+        "activation": "-",
+        "class": "Villager",
+        "level": 15
+    },
+    {
+        "skill": "Luck +4",
+        "effect": "Luck +4",
+        "activation": "-",
+        "class": "Dancer",
+        "level": 1
+    },
+    {
+        "skill": "Special Dance",
+        "effect": "Strength, Magic, Defence and Resistance +2 for one Turn for the unit who receives the user's Dance",
+        "activation": "-",
+        "class": "Dancer",
+        "level": 15
+    },
+    {
+        "skill": "Even Rhythm",
+        "effect": "Hit rate and Avoid +10 during even numbered Turns",
+        "activation": "-",
+        "class": "Taguel",
+        "level": 1
+    },
+    {
+        "skill": "Beastbane",
+        "effect": "Deals effective damage to  (beast *3) units when user is a Taguel",
+        "activation": "-",
+        "class": "Taguel",
+        "level": 15
+    },
+    {
+        "skill": "Odd Rhythm",
+        "effect": "Hit rate and Avoid +10 during odd numbered Turns",
+        "activation": "-",
+        "class": "Manakete",
+        "level": 1
+    },
+    {
+        "skill": "Wyrmsbane",
+        "effect": "Deals effective damage to  (dragon) units when user is a Manakete",
+        "activation": "-",
+        "class": "Manakete",
+        "level": 15
+    },
+    {
+        "skill": "Shadowgift",
+        "effect": "Enables usage of Dark Tomes for Tome wielders(Aversa, Morgan as Aversa's daughter, DLC Micaiah and DLC Katarina only)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Conquest",
+        "effect": "Negates user's  (beast *3) and  (armour) type weaknesses (Walhart, Morgan as Walhart's son, Zephiel and DLC Ephraim only)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Resistance +10",
+        "effect": "Resistance +10",
+        "activation": "-",
+        "class": "Dread Fighter *4",
+        "level": 1
+    },
+    {
+        "skill": "Aggressor",
+        "effect": "Attack +10 during the user's Turn",
+        "activation": "-",
+        "class": "Dread Fighter *4",
+        "level": 15
+    },
+    {
+        "skill": "Rally Heart",
+        "effect": "All stats *1 +2 and Movement +1 to all allies within a 3 tile radius for one Turn when the Rally command is used",
+        "activation": "Command",
+        "class": "Bride *4",
+        "level": 1
+    },
+    {
+        "skill": "Bond",
+        "effect": "Restores 10 HP to all allies within a 3 tile radius at the beginning of the user's Turn",
+        "activation": "-",
+        "class": "Bride *4",
+        "level": 15
+    },
+    {
+        "skill": "All Stats +2",
+        "effect": "Strength, Magic, Skill, Speed, Luck, Defence and Resistance +2 (Learned by using the All Stats +2 item *4)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Paragon",
+        "effect": "Experience gain x2(Learned by using the Paragon item *4)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Iote's Shield",
+        "effect": "Negates user's (flying) type weakness(Learned by using the Iote's Shield item *4)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Limit Breaker",
+        "effect": "Raises the character's maximum stats *1 by 10(Learned by using the Limit Breaker item *4)",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Outrealm Skill",
+        "effect": "What a DLC Skill looks like without DLC installed *4",
+        "activation": "-",
+        "class": "-",
+        "level": "-"
+    },
+    {
+        "skill": "Dragonskin",
+        "effect": "Halves damage, negates Counter and Lethality(Grima and Hard mode~ Validar only)",
+        "activation": "-",
+        "difficulty": "Normal~"
+    },
+    {
+        "skill": "Hit Rate +10",
+        "effect": "Hit rate +10",
+        "activation": "-",
+        "difficulty": "Lunatic~"
+    },
+    {
+        "skill": "Rightful God",
+        "effect": "Adds 30% to Skill activation rates(Grima only)",
+        "activation": "-",
+        "difficulty": "Lunatic~"
+    },
+    {
+        "skill": "Vantage+",
+        "effect": "Always attack first during the enemy's Turn",
+        "activation": "-",
+        "difficulty": "Lunatic+"
+    },
+    {
+        "skill": "Luna+",
+        "effect": "Every attack has a Luna effect",
+        "activation": "-",
+        "difficulty": "Lunatic+"
+    },
+    {
+        "skill": "Hawkeye",
+        "effect": "Attacks always strike the enemy",
+        "activation": "-",
+        "difficulty": "Lunatic+"
+    },
+    {
+        "skill": "Pavise+",
+        "effect": "Halves damage from swords, lances, axes (includes magical variants) and beaststones *",
+        "activation": "-",
+        "difficulty": "Lunatic+"
+    },
+    {
+        "skill": "Aegis+",
+        "effect": "Halves damage from bows, tomes and dragonstones *",
+        "activation": "-",
+        "difficulty": "Lunatic+"
+    }
+]
