@@ -1632,7 +1632,7 @@
         "uses": "5",
         "worth": "1280",
         "exp": 40,
-        "description": "Transports a distant ally to the caster\u2019s side"
+        "description": "Transports a distant ally to the caster's side"
     },
     {
         "name": "Ward",
@@ -1641,7 +1641,7 @@
         "uses": "5",
         "worth": "2100",
         "exp": 30,
-        "description": "Boosts ally\u2019s Res by 5 (decreases by 1 each Turn)"
+        "description": "Boosts ally's Res by 5 (decreases by 1 each Turn)"
     },
     {
         "name": "Hammerne",
@@ -1650,7 +1650,7 @@
         "uses": "1",
         "worth": "2000",
         "exp": 50,
-        "description": "Fully repairs an ally\u2019s weapon or staff"
+        "description": "Fully repairs an ally's weapon or staff"
     },
     {
         "name": "Kneader",
