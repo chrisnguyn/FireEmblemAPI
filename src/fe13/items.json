@@ -138,7 +138,7 @@
         "description": "Lord/Great Lord/Lodestar only. Effective vs. Armored/Horseback units."
     },
     {
-        "name": "Tree Branch*",
+        "name": "Tree Branch",
         "rank": "E",
         "range": "1",
         "uses": 20,
@@ -150,7 +150,7 @@
         "effects": null
     },
     {
-        "name": "Glass Sword*",
+        "name": "Glass Sword",
         "rank": "E",
         "range": "1",
         "uses": 3,
@@ -162,7 +162,7 @@
         "effects": null
     },
     {
-        "name": "Soothing Sword*",
+        "name": "Soothing Sword",
         "rank": "D",
         "range": "1",
         "uses": 10,
@@ -175,7 +175,7 @@
         "description": "Restores 10 HP each turn."
     },
     {
-        "name": "Leif's Blade*",
+        "name": "Leif's Blade",
         "rank": "D",
         "range": "1",
         "uses": 20,
@@ -188,7 +188,7 @@
         "description": "Grants Despoil skill while equipped."
     },
     {
-        "name": "Roy's Blade*",
+        "name": "Roy's Blade",
         "rank": "D",
         "range": "1",
         "uses": 25,
@@ -200,7 +200,7 @@
         "effects": null
     },
     {
-        "name": "Eliwood's Blade*",
+        "name": "Eliwood's Blade",
         "rank": "C",
         "range": "1",
         "uses": 20,
@@ -212,7 +212,7 @@
         "effects": null
     },
     {
-        "name": "Eirika's Blade*",
+        "name": "Eirika's Blade",
         "rank": "C",
         "range": "1",
         "uses": 20,
@@ -225,7 +225,7 @@
         "description": "Allows user to strike twice in one attack."
     },
     {
-        "name": "Superior Edge*",
+        "name": "Superior Edge",
         "rank": "B",
         "range": "1",
         "uses": 10,
@@ -238,7 +238,7 @@
         "description": "Grants Swordbreaker skill vs. a sword wielder while equipped."
     },
     {
-        "name": "Seliph's Blade*",
+        "name": "Seliph's Blade",
         "rank": "B",
         "range": "1",
         "uses": 15,
@@ -251,7 +251,7 @@
         "description": "Speed +2, Resistance +2."
     },
     {
-        "name": "Alm's Blade*",
+        "name": "Alm's Blade",
         "rank": "B",
         "range": "1",
         "uses": 10,
@@ -553,7 +553,7 @@
         "effects": null
     },
     {
-        "name": "Log*",
+        "name": "Log",
         "rank": "E",
         "range": "1",
         "uses": 20,
@@ -565,7 +565,7 @@
         "effects": null
     },
     {
-        "name": "Glass Lance*",
+        "name": "Glass Lance",
         "rank": "E",
         "range": "1",
         "uses": 3,
@@ -577,7 +577,7 @@
         "effects": null
     },
     {
-        "name": "Miniature Lance*",
+        "name": "Miniature Lance",
         "rank": "D",
         "range": "1-2",
         "uses": 10,
@@ -589,7 +589,7 @@
         "effects": null
     },
     {
-        "name": "Shockstick*",
+        "name": "Shockstick",
         "rank": "C",
         "range": "1",
         "uses": 20,
@@ -602,7 +602,7 @@
         "description": "Deals magic-based damage."
     },
     {
-        "name": "Superior Lance*",
+        "name": "Superior Lance",
         "rank": "B",
         "range": "1",
         "uses": 10,
@@ -615,7 +615,7 @@
         "description": "Grants Lancebreaker skill vs. a lance wielder while equipped."
     },
     {
-        "name": "Finn's Lance*",
+        "name": "Finn's Lance",
         "rank": "D",
         "range": "1",
         "uses": 25,
@@ -628,7 +628,7 @@
         "description": "Defense +2, Luck +2."
     },
     {
-        "name": "Ephraim's Lance*",
+        "name": "Ephraim's Lance",
         "rank": "C",
         "range": "1",
         "uses": 20,
@@ -641,7 +641,7 @@
         "description": "Strength +2, Speed +2."
     },
     {
-        "name": "Sigurd's Lance*",
+        "name": "Sigurd's Lance",
         "rank": "B",
         "range": "1",
         "uses": 15,
@@ -840,7 +840,7 @@
         "effects": null
     },
     {
-        "name": "Ladle*",
+        "name": "Ladle",
         "rank": "E",
         "range": "1",
         "uses": 20,
@@ -852,7 +852,7 @@
         "effects": null
     },
     {
-        "name": "Glass Axe*",
+        "name": "Glass Axe",
         "rank": "E",
         "range": "1",
         "uses": 3,
@@ -864,7 +864,7 @@
         "effects": null
     },
     {
-        "name": "Imposing Axe*",
+        "name": "Imposing Axe",
         "rank": "D",
         "range": "1",
         "uses": 10,
@@ -876,7 +876,7 @@
         "effects": null
     },
     {
-        "name": "Volant Axe*",
+        "name": "Volant Axe",
         "rank": "C",
         "range": "1-2",
         "uses": 10,
@@ -889,7 +889,7 @@
         "description": "Effective vs. flying units."
     },
     {
-        "name": "Superior Axe*",
+        "name": "Superior Axe",
         "rank": "B",
         "range": "1",
         "uses": 10,
@@ -902,7 +902,7 @@
         "description": "Grants Axebreaker skill vs. an axe wielder while equipped."
     },
     {
-        "name": "Orsin's Hatchet*",
+        "name": "Orsin's Hatchet",
         "rank": "D",
         "range": "1-2",
         "uses": 20,
@@ -914,7 +914,7 @@
         "effects": null
     },
     {
-        "name": "Titania's Axe*",
+        "name": "Titania's Axe",
         "rank": "C",
         "range": "1",
         "uses": 20,
@@ -927,7 +927,7 @@
         "description": "Grants Patience skill while equipped."
     },
     {
-        "name": "Hector's Axe*",
+        "name": "Hector's Axe",
         "rank": "B",
         "range": "1",
         "uses": 15,
@@ -1104,7 +1104,7 @@
         "description": "Archer/Sniper only."
     },
     {
-        "name": "Slack Bow*",
+        "name": "Slack Bow",
         "rank": "E",
         "range": "2",
         "uses": 20,
@@ -1116,7 +1116,7 @@
         "effects": null
     },
     {
-        "name": "Glass Bow*",
+        "name": "Glass Bow",
         "rank": "E",
         "range": "2",
         "uses": 3,
@@ -1128,7 +1128,7 @@
         "effects": null
     },
     {
-        "name": "Towering Bow*",
+        "name": "Towering Bow",
         "rank": "D",
         "range": "2-3",
         "uses": 10,
@@ -1141,7 +1141,7 @@
         "description": "Archer/Sniper only."
     },
     {
-        "name": "Underdog Bow*",
+        "name": "Underdog Bow",
         "rank": "D",
         "range": "2",
         "uses": 15,
@@ -1154,7 +1154,7 @@
         "description": "Grants Underdog skill while equipped."
     },
     {
-        "name": "Superior Bow*",
+        "name": "Superior Bow",
         "rank": "B",
         "range": "2",
         "uses": 10,
@@ -1167,7 +1167,7 @@
         "description": "Grants Bowbreaker skill vs a bow wielder while equipped."
     },
     {
-        "name": "Wolt's Bow*",
+        "name": "Wolt's Bow",
         "rank": "C",
         "range": "2",
         "uses": 25,
@@ -1180,7 +1180,7 @@
         "description": "When used as an item, restores 20 HP."
     },
     {
-        "name": "Innes' Bow*",
+        "name": "Innes' Bow",
         "rank": "B",
         "range": "2",
         "uses": 15,
