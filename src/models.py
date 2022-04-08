@@ -1,4 +1,17 @@
 import json
+from pydantic import BaseModel
+from typing import List, Optional, Dict
+
+
+class Character(BaseModel):
+    name: str
+    _class: str
+    lv: int
+    base_stats: Dict
+    mov: int
+    weapon_ranks: Dict
+    equipment: Optional[List] = None
+    skills: List
 
 
 class Game():
