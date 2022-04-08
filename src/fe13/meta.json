@@ -1,0 +1,31 @@
+{
+  "name": "Fire Emblem Awakening",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "directors": [
+    "Kouhei Maeda",
+    "Genki Yokota"
+  ],
+  "producers": [
+    "Toru Narihiro",
+    "Hitoshi Yamagami"
+  ],
+  "designers": [
+    "Toshiyuki Kusakihara",
+    "Yusuke Kozaki"
+  ],
+  "composers": [
+    "Hiroki Morishita",
+    "Rei Kondoh",
+    "Yuka Tsujiyoko"
+  ],
+  "platforms": [
+    "Nintendo 3DS"
+  ],
+  "release_dates": {
+    "JP": "2012-04-19",
+    "NA": "2013-02-04",
+    "EU": "2013-04-19",
+    "AUS": "2012-04-20"
+  }
+}

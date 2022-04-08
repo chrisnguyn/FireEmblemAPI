@@ -46,6 +46,11 @@ async def get_base_growths(game: str):
     return routing.get_base_growths(game)
 
 
+@app.get('/{game}/meta')
+async def get_meta(game: str):
+    return routing.get_meta(game)
+
+
 @app.exception_handler(StarletteHTTPException)
 def custom_http_exception_handler(request, exc):
     return RedirectResponse('/error')

@@ -29,3 +29,7 @@ def get_base_growths_for_character(game: str, character: str) -> dict:
 
 def get_base_growths(game: str) -> dict:
     return mapping[game].get_base_growths()
+
+
+def get_meta(game: str) -> dict:
+    return mapping[game].get_meta()

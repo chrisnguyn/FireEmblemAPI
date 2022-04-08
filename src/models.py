@@ -42,3 +42,8 @@ class Game():
         base_growths = self.__load_json('%s/base_growths.json' % self.title)
 
         return base_growths
+
+    def get_meta(self) -> list[dict]:
+        meta = self.__load_json('%s/meta.json' % self.title)
+
+        return meta
