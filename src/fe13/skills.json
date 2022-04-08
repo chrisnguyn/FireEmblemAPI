@@ -2,14 +2,14 @@
     {
         "skill": "Dual Strike+",
         "effect": "Adds 10% to the Dual Strike rate",
-        "activation": "-",
+        "activation": null,
         "class": "Lord",
         "level": 1
     },
     {
         "skill": "Charm",
         "effect": "Hit rate and Avoid +5 to all allies within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Lord",
         "level": 10
     },
@@ -23,21 +23,21 @@
     {
         "skill": "Rightful King",
         "effect": "Adds 10% to Skill activation rates",
-        "activation": "-",
+        "activation": null,
         "class": "Great Lord",
         "level": 15
     },
     {
         "skill": "Veteran",
         "effect": "Experience gain x 1.5 when paired up",
-        "activation": "-",
+        "activation": null,
         "class": "Tactician",
         "level": 1
     },
     {
         "skill": "Solidarity",
         "effect": "Critical and Critical Avoid +10 to adjacent allies",
-        "activation": "-",
+        "activation": null,
         "class": "Tactician",
         "level": 10
     },
@@ -58,21 +58,21 @@
     {
         "skill": "Discipline",
         "effect": "Weapon experience x2",
-        "activation": "-",
+        "activation": null,
         "class": "Cavalier",
         "level": 1
     },
     {
         "skill": "Outdoor Fighter",
         "effect": "Hit rate and Avoid +10 when fighting outdoors",
-        "activation": "-",
+        "activation": null,
         "class": "Cavalier",
         "level": 10
     },
     {
         "skill": "Defender",
         "effect": "All stats *1 +1 when paired up",
-        "activation": "-",
+        "activation": null,
         "class": "Paladin",
         "level": 5
     },
@@ -93,21 +93,21 @@
     {
         "skill": "Dual Guard+",
         "effect": "Adds 10% to the Dual Guard rate",
-        "activation": "-",
+        "activation": null,
         "class": "Great Knight",
         "level": 15
     },
     {
         "skill": "Defence +2",
         "effect": "Defence +2",
-        "activation": "-",
+        "activation": null,
         "class": "Knight",
         "level": 1
     },
     {
         "skill": "Indoor Fighter",
         "effect": "Hit rate and Avoid +10 when fighting indoors",
-        "activation": "-",
+        "activation": null,
         "class": "Knight",
         "level": 10
     },
@@ -128,14 +128,14 @@
     {
         "skill": "Avoid +10",
         "effect": "Avoid +10",
-        "activation": "-",
+        "activation": null,
         "class": "Myrmidon",
         "level": 1
     },
     {
         "skill": "Vantage",
         "effect": "When HP under half, always attack first during the enemy's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Myrmidon",
         "level": 10
     },
@@ -149,7 +149,7 @@
     {
         "skill": "Swordfaire",
         "effect": "Strength +5 when equipped with a sword (Magic +5 when equipped with the Levin Sword)",
-        "activation": "-",
+        "activation": null,
         "class": "Swordmaster",
         "level": 15
     },
@@ -163,7 +163,7 @@
     {
         "skill": "Patience",
         "effect": "Hit rate and Avoid +10 during the enemy's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Mercenary",
         "level": 10
     },
@@ -177,21 +177,21 @@
     {
         "skill": "Axebreaker",
         "effect": "Hit rate and Avoid +50 when the enemy is equipped with an axe",
-        "activation": "-",
+        "activation": null,
         "class": "Hero",
         "level": 15
     },
     {
         "skill": "HP +5",
         "effect": "Maximum HP +5",
-        "activation": "-",
+        "activation": null,
         "class": "Fighter",
         "level": 1
     },
     {
         "skill": "Zeal",
         "effect": "Critical +5",
-        "activation": "-",
+        "activation": null,
         "class": "Fighter",
         "level": 10
     },
@@ -205,7 +205,7 @@
     {
         "skill": "Counter",
         "effect": "Returns damage when attacked by an adjacent enemy (except damage that KOs the user) *2",
-        "activation": "-",
+        "activation": null,
         "class": "Warrior",
         "level": 15
     },
@@ -219,49 +219,49 @@
     {
         "skill": "Gamble",
         "effect": "Hit rate -5, Critical +10",
-        "activation": "-",
+        "activation": null,
         "class": "Barbarian",
         "level": 10
     },
     {
         "skill": "Wrath",
         "effect": "Critical +20 when under half HP",
-        "activation": "-",
+        "activation": null,
         "class": "Berserker",
         "level": 5
     },
     {
         "skill": "Axefaire",
         "effect": "Strength +5 when equipped with an axe (Magic +5 when equipped with the Bolt Axe)",
-        "activation": "-",
+        "activation": null,
         "class": "Berserker",
         "level": 15
     },
     {
         "skill": "Skill +2",
         "effect": "Skill +2",
-        "activation": "-",
+        "activation": null,
         "class": "Archer",
         "level": 1
     },
     {
         "skill": "Prescience",
         "effect": "Hit rate and Avoid +15 during the user's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Archer",
         "level": 10
     },
     {
         "skill": "Hit Rate +20",
         "effect": "Hit rate +20",
-        "activation": "-",
+        "activation": null,
         "class": "Sniper",
         "level": 5
     },
     {
         "skill": "Bowfaire",
         "effect": "Strength +5 when equipped with a bow",
-        "activation": "-",
+        "activation": null,
         "class": "Sniper",
         "level": 15
     },
@@ -275,21 +275,21 @@
     {
         "skill": "Bowbreaker",
         "effect": "Hit rate and Avoid +50 when the enemy is equipped with a bow",
-        "activation": "-",
+        "activation": null,
         "class": "Bow Knight",
         "level": 15
     },
     {
         "skill": "Locktouch",
         "effect": "Open doors and chests without the need of keys",
-        "activation": "-",
+        "activation": null,
         "class": "Thief",
         "level": 1
     },
     {
         "skill": "Movement +1",
         "effect": "Movement +1",
-        "activation": "-",
+        "activation": null,
         "class": "Thief",
         "level": 10
     },
@@ -303,35 +303,35 @@
     {
         "skill": "Pass",
         "effect": "User can pass through tiles occupied by enemy units",
-        "activation": "-",
+        "activation": null,
         "class": "Assassin",
         "level": 15
     },
     {
         "skill": "Lucky Seven",
         "effect": "Hit rate and Avoid +20 up to the 7th Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Trickster",
         "level": 5
     },
     {
         "skill": "Acrobat",
         "effect": "All traversable terrain costs 1 movement point to cross",
-        "activation": "-",
+        "activation": null,
         "class": "Trickster",
         "level": 15
     },
     {
         "skill": "Speed +2",
         "effect": "Speed +2",
-        "activation": "-",
+        "activation": null,
         "class": "Pegasus Knight",
         "level": 1
     },
     {
         "skill": "Relief",
         "effect": "Recover 20% HP at the start of the user's Turn if no units are within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Pegasus Knight",
         "level": 10
     },
@@ -345,7 +345,7 @@
     {
         "skill": "Lancefaire",
         "effect": "Strength +5 when equipped with a lance (Magic +5 when equipped with the Shockstick)",
-        "activation": "-",
+        "activation": null,
         "class": "Falcon Knight",
         "level": 15
     },
@@ -359,63 +359,63 @@
     {
         "skill": "Galeforce",
         "effect": "Allows the user another full action after they defeat an enemy during the user's Turn (only once per Turn)",
-        "activation": "-",
+        "activation": null,
         "class": "Dark Flier",
         "level": 15
     },
     {
         "skill": "Strength +2",
         "effect": "Strength +2",
-        "activation": "-",
+        "activation": null,
         "class": "Wyvern Rider",
         "level": 1
     },
     {
         "skill": "Tantivy",
         "effect": "Hit rate and Avoid +10 if no allies within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Wyvern Rider",
         "level": 10
     },
     {
         "skill": "Quick Burn",
         "effect": "Hit rate and Avoid +15 at the start of the chapter. Effect decreases with each passing Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Wyvern Lord",
         "level": 5
     },
     {
         "skill": "Swordbreaker",
         "effect": "Hit rate and Avoid +50 when the enemy is equipped with a sword",
-        "activation": "-",
+        "activation": null,
         "class": "Wyvern Lord",
         "level": 15
     },
     {
         "skill": "Deliverer",
         "effect": "Movement +2 when paired up",
-        "activation": "-",
+        "activation": null,
         "class": "Griffon Rider",
         "level": 5
     },
     {
         "skill": "Lancebreaker",
         "effect": "Hit rate and Avoid +50 when the enemy is equipped with a lance",
-        "activation": "-",
+        "activation": null,
         "class": "Griffon Rider",
         "level": 15
     },
     {
         "skill": "Magic +2",
         "effect": "Magic +2",
-        "activation": "-",
+        "activation": null,
         "class": "Mage",
         "level": 1
     },
     {
         "skill": "Focus",
         "effect": "Critical +10 when no allies within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Mage",
         "level": 10
     },
@@ -429,21 +429,21 @@
     {
         "skill": "Tomefaire",
         "effect": "Magic +5 when equipped with a Tome",
-        "activation": "-",
+        "activation": null,
         "class": "Sage",
         "level": 15
     },
     {
         "skill": "Hex",
         "effect": "Avoid -15 to all adjacent enemies",
-        "activation": "-",
+        "activation": null,
         "class": "Dark Mage",
         "level": 1
     },
     {
         "skill": "Anathema",
         "effect": "Avoid and Critical Avoid -10 to all enemies within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Dark Mage",
         "level": 10
     },
@@ -457,21 +457,21 @@
     {
         "skill": "Tomebreaker",
         "effect": "Hit rate and Avoid +50 when the enemy is equipped with a tome",
-        "activation": "-",
+        "activation": null,
         "class": "Sorcerer",
         "level": 15
     },
     {
         "skill": "Slow Burn",
         "effect": "Hit rate and Avoid increases by 1 each Turn, up to the 15th Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Dark Knight",
         "level": 5
     },
     {
         "skill": "Lifetaker",
         "effect": "User recovers 50% HP after they defeat an enemy during the user's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Dark Knight",
         "level": 15
     },
@@ -485,7 +485,7 @@
     {
         "skill": "Healtouch",
         "effect": "Restores an extra 5 HP when healing allies",
-        "activation": "-",
+        "activation": null,
         "class": "Priest, Cleric",
         "level": 10
     },
@@ -499,21 +499,21 @@
     {
         "skill": "Renewal",
         "effect": "Recover 30% HP at the start of the user's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "War Monk, War Cleric",
         "level": 15
     },
     {
         "skill": "Resistance +2",
         "effect": "Resistance +2",
-        "activation": "-",
+        "activation": null,
         "class": "Troubadour",
         "level": 1
     },
     {
         "skill": "Demoiselle",
         "effect": "Avoid and Critical Avoid +10 to all male allies within a 3 tile radius",
-        "activation": "-",
+        "activation": null,
         "class": "Troubadour",
         "level": 10
     },
@@ -527,91 +527,91 @@
     {
         "skill": "Dual Support+",
         "effect": "Increases the support bonus effect",
-        "activation": "-",
+        "activation": null,
         "class": "Valkyrie",
         "level": 15
     },
     {
         "skill": "Aptitude",
         "effect": "Adds 20% to all growth rates during Level Ups",
-        "activation": "-",
+        "activation": null,
         "class": "Villager",
         "level": 1
     },
     {
         "skill": "Underdog",
         "effect": "Hit rate and Avoid +15 when user's Level is lower than the enemy (promoted units count as Level +20)",
-        "activation": "-",
+        "activation": null,
         "class": "Villager",
         "level": 15
     },
     {
         "skill": "Luck +4",
         "effect": "Luck +4",
-        "activation": "-",
+        "activation": null,
         "class": "Dancer",
         "level": 1
     },
     {
         "skill": "Special Dance",
         "effect": "Strength, Magic, Defence and Resistance +2 for one Turn for the unit who receives the user's Dance",
-        "activation": "-",
+        "activation": null,
         "class": "Dancer",
         "level": 15
     },
     {
         "skill": "Even Rhythm",
         "effect": "Hit rate and Avoid +10 during even numbered Turns",
-        "activation": "-",
+        "activation": null,
         "class": "Taguel",
         "level": 1
     },
     {
         "skill": "Beastbane",
         "effect": "Deals effective damage to  (beast *3) units when user is a Taguel",
-        "activation": "-",
+        "activation": null,
         "class": "Taguel",
         "level": 15
     },
     {
         "skill": "Odd Rhythm",
         "effect": "Hit rate and Avoid +10 during odd numbered Turns",
-        "activation": "-",
+        "activation": null,
         "class": "Manakete",
         "level": 1
     },
     {
         "skill": "Wyrmsbane",
         "effect": "Deals effective damage to  (dragon) units when user is a Manakete",
-        "activation": "-",
+        "activation": null,
         "class": "Manakete",
         "level": 15
     },
     {
         "skill": "Shadowgift",
         "effect": "Enables usage of Dark Tomes for Tome wielders(Aversa, Morgan as Aversa's daughter, DLC Micaiah and DLC Katarina only)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Conquest",
         "effect": "Negates user's  (beast *3) and  (armour) type weaknesses (Walhart, Morgan as Walhart's son, Zephiel and DLC Ephraim only)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Resistance +10",
         "effect": "Resistance +10",
-        "activation": "-",
+        "activation": null,
         "class": "Dread Fighter *4",
         "level": 1
     },
     {
         "skill": "Aggressor",
         "effect": "Attack +10 during the user's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Dread Fighter *4",
         "level": 15
     },
@@ -625,91 +625,91 @@
     {
         "skill": "Bond",
         "effect": "Restores 10 HP to all allies within a 3 tile radius at the beginning of the user's Turn",
-        "activation": "-",
+        "activation": null,
         "class": "Bride *4",
         "level": 15
     },
     {
         "skill": "All Stats +2",
         "effect": "Strength, Magic, Skill, Speed, Luck, Defence and Resistance +2 (Learned by using the All Stats +2 item *4)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Paragon",
         "effect": "Experience gain x2(Learned by using the Paragon item *4)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Iote's Shield",
         "effect": "Negates user's (flying) type weakness(Learned by using the Iote's Shield item *4)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Limit Breaker",
         "effect": "Raises the character's maximum stats *1 by 10(Learned by using the Limit Breaker item *4)",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Outrealm Skill",
         "effect": "What a DLC Skill looks like without DLC installed *4",
-        "activation": "-",
-        "class": "-",
-        "level": "-"
+        "activation": null,
+        "class": null,
+        "level": null
     },
     {
         "skill": "Dragonskin",
         "effect": "Halves damage, negates Counter and Lethality(Grima and Hard mode~ Validar only)",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Normal~"
     },
     {
         "skill": "Hit Rate +10",
         "effect": "Hit rate +10",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic~"
     },
     {
         "skill": "Rightful God",
         "effect": "Adds 30% to Skill activation rates(Grima only)",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic~"
     },
     {
         "skill": "Vantage+",
         "effect": "Always attack first during the enemy's Turn",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic+"
     },
     {
         "skill": "Luna+",
         "effect": "Every attack has a Luna effect",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic+"
     },
     {
         "skill": "Hawkeye",
         "effect": "Attacks always strike the enemy",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic+"
     },
     {
         "skill": "Pavise+",
         "effect": "Halves damage from swords, lances, axes (includes magical variants) and beaststones *",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic+"
     },
     {
         "skill": "Aegis+",
         "effect": "Halves damage from bows, tomes and dragonstones *",
-        "activation": "-",
+        "activation": null,
         "difficulty": "Lunatic+"
     }
 ]
