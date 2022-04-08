@@ -6,10 +6,10 @@
         "hit": 100,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "50",
-        "worth": "350",
-        "description": "-"
+        "effect": null,
+        "uses": 50,
+        "worth": 350,
+        "description": null
     },
     {
         "name": "Iron Sword",
@@ -18,10 +18,10 @@
         "hit": 95,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "40",
-        "worth": "520",
-        "description": "-"
+        "effect": null,
+        "uses": 40,
+        "worth": 520,
+        "description": null
     },
     {
         "name": "Steel Sword",
@@ -30,10 +30,10 @@
         "hit": 90,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "35",
-        "worth": "840",
-        "description": "-"
+        "effect": null,
+        "uses": 35,
+        "worth": 840,
+        "description": null
     },
     {
         "name": "Silver Sword",
@@ -42,10 +42,10 @@
         "hit": 85,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1410",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1410,
+        "description": null
     },
     {
         "name": "Brave Sword",
@@ -54,9 +54,9 @@
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "2100",
+        "effect": null,
+        "uses": 30,
+        "worth": 2100,
         "description": "2 consecutive attacks"
     },
     {
@@ -67,9 +67,9 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Armour units",
-        "uses": "25",
-        "worth": "1450",
-        "description": "-"
+        "uses": 25,
+        "worth": 1450,
+        "description": null
     },
     {
         "name": "Wyrmslayer",
@@ -79,9 +79,9 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Dragon units",
-        "uses": "25",
-        "worth": "1500",
-        "description": "-"
+        "uses": 25,
+        "worth": 1500,
+        "description": null
     },
     {
         "name": "Killing Edge",
@@ -90,10 +90,10 @@
         "hit": 90,
         "crit": 30,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1470",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1470,
+        "description": null
     },
     {
         "name": "Levin Sword",
@@ -102,9 +102,9 @@
         "hit": 80,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "1600",
+        "effect": null,
+        "uses": 25,
+        "worth": 1600,
         "description": "Counts as magic"
     },
     {
@@ -115,8 +115,8 @@
         "crit": 10,
         "rng": "1",
         "effect": "effective against Beast units,, and Armour units",
-        "uses": "35",
-        "worth": "1600",
+        "uses": 35,
+        "worth": 1600,
         "description": "Lords, Great Lords and Lodestars only"
     },
     {
@@ -127,8 +127,8 @@
         "crit": 10,
         "rng": "1",
         "effect": "effective against Beast units,, and Armour units",
-        "uses": "25",
-        "worth": "2100",
+        "uses": 25,
+        "worth": 2100,
         "description": "Lords, Great Lords and Lodestars only"
     },
     {
@@ -138,9 +138,9 @@
         "hit": 85,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "35",
-        "worth": "1050",
+        "effect": null,
+        "uses": 35,
+        "worth": 1050,
         "description": "Owain only, Skill +1"
     },
     {
@@ -150,9 +150,9 @@
         "hit": 85,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "0",
+        "effect": null,
+        "uses": 30,
+        "worth": 0,
         "description": "+Sol Skill"
     },
     {
@@ -162,9 +162,9 @@
         "hit": 60,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "30",
-        "worth": "0",
+        "effect": null,
+        "uses": 30,
+        "worth": 0,
         "description": "Myrmidons and Swordmasters only"
     },
     {
@@ -175,8 +175,8 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Dragon units",
-        "uses": "-",
-        "worth": "-",
+        "uses": null,
+        "worth": null,
         "description": "Chrom and Marth only"
     },
     {
@@ -187,8 +187,8 @@
         "crit": 10,
         "rng": "1",
         "effect": "effective against Dragon units,, and Fell Dragon units",
-        "uses": "-",
-        "worth": "-",
+        "uses": null,
+        "worth": null,
         "description": "Chrom and Marth only, can be used to recover 20 HP"
     },
     {
@@ -199,8 +199,8 @@
         "crit": 5,
         "rng": "1",
         "effect": "effective against Dragon units,, and Fell Dragon units",
-        "uses": "-",
-        "worth": "-",
+        "uses": null,
+        "worth": null,
         "description": "Lucina and Marth only, can be used to recover 20 HP"
     },
     {
@@ -210,10 +210,10 @@
         "hit": 95,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
+        "description": null
     },
     {
         "name": "Tyrfing",
@@ -222,9 +222,9 @@
         "hit": 85,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Res +5"
     },
     {
@@ -234,9 +234,9 @@
         "hit": 90,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Speed +5"
     },
     {
@@ -246,9 +246,9 @@
         "hit": 85,
         "crit": 15,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Skill +5"
     },
     {
@@ -258,9 +258,9 @@
         "hit": 100,
         "crit": 50,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Myrmidons & Swordmasters only, Res +5"
     },
     {
@@ -270,9 +270,9 @@
         "hit": 70,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25 *1",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Def +5"
     },
     {
@@ -282,10 +282,10 @@
         "hit": 100,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "100 *2",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 100,
+        "description": null
     },
     {
         "name": "Glass Sword",
@@ -294,10 +294,10 @@
         "hit": 85,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "3",
-        "worth": "600 *2",
-        "description": "-"
+        "effect": null,
+        "uses": 3,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Soothing Sword",
@@ -306,9 +306,9 @@
         "hit": 85,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "920 *2",
+        "effect": null,
+        "uses": 10,
+        "worth": 920,
         "description": "Recover 10 HP each Turn"
     },
     {
@@ -318,9 +318,9 @@
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "1950 *2",
+        "effect": null,
+        "uses": 10,
+        "worth": 1950,
         "description": "+Swordbreaker Skill"
     },
     {
@@ -330,9 +330,9 @@
         "hit": 95,
         "crit": 30,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "820 *2",
+        "effect": null,
+        "uses": 20,
+        "worth": 820,
         "description": "+Despoil Skill"
     },
     {
@@ -342,10 +342,10 @@
         "hit": 95,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "900 *2",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 900,
+        "description": null
     },
     {
         "name": "Eliwood's Blade",
@@ -354,10 +354,10 @@
         "hit": 85,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "960 *2",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 960,
+        "description": null
     },
     {
         "name": "Eirika's Blade",
@@ -366,9 +366,9 @@
         "hit": 95,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1220 *2",
+        "effect": null,
+        "uses": 20,
+        "worth": 1220,
         "description": "2 consecutive attacks"
     },
     {
@@ -378,9 +378,9 @@
         "hit": 90,
         "crit": 15,
         "rng": "1",
-        "effect": "-",
-        "uses": "15",
-        "worth": "1530 *2",
+        "effect": null,
+        "uses": 15,
+        "worth": 1530,
         "description": "Spd and Res +2"
     },
     {
@@ -390,10 +390,10 @@
         "hit": 75,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "1630 *2",
-        "description": "-"
+        "effect": null,
+        "uses": 10,
+        "worth": 1630,
+        "description": null
     },
     {
         "name": "Bronze Lance",
@@ -402,10 +402,10 @@
         "hit": 90,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "50",
-        "worth": "350",
-        "description": "-"
+        "effect": null,
+        "uses": 50,
+        "worth": 350,
+        "description": null
     },
     {
         "name": "Iron Lance",
@@ -414,10 +414,10 @@
         "hit": 85,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "40",
-        "worth": "560",
-        "description": "-"
+        "effect": null,
+        "uses": 40,
+        "worth": 560,
+        "description": null
     },
     {
         "name": "Steel Lance",
@@ -426,10 +426,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "35",
-        "worth": "910",
-        "description": "-"
+        "effect": null,
+        "uses": 35,
+        "worth": 910,
+        "description": null
     },
     {
         "name": "Silver Lance",
@@ -438,10 +438,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1560",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1560,
+        "description": null
     },
     {
         "name": "Brave Lance",
@@ -450,9 +450,9 @@
         "hit": 70,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "2220",
+        "effect": null,
+        "uses": 30,
+        "worth": 2220,
         "description": "2 consecutive attacks"
     },
     {
@@ -462,10 +462,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "700",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 700,
+        "description": null
     },
     {
         "name": "Short Spear",
@@ -474,10 +474,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "1600",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 1600,
+        "description": null
     },
     {
         "name": "Spear",
@@ -486,10 +486,10 @@
         "hit": 70,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "2400",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 2400,
+        "description": null
     },
     {
         "name": "Beast Killer",
@@ -499,9 +499,9 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Beast units",
-        "uses": "25",
-        "worth": "1650",
-        "description": "-"
+        "uses": 25,
+        "worth": 1650,
+        "description": null
     },
     {
         "name": "Blessed Lance",
@@ -511,8 +511,8 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Revenant units",
-        "uses": "35",
-        "worth": "1540",
+        "uses": 35,
+        "worth": 1540,
         "description": "Recover 10 HP each Turn"
     },
     {
@@ -522,10 +522,10 @@
         "hit": 80,
         "crit": 30,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1680",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1680,
+        "description": null
     },
     {
         "name": "Luna",
@@ -534,9 +534,9 @@
         "hit": 80,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "0",
+        "effect": null,
+        "uses": 30,
+        "worth": 0,
         "description": "+Luna Skill"
     },
     {
@@ -546,9 +546,9 @@
         "hit": 85,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Can be used to recover all HP"
     },
     {
@@ -558,9 +558,9 @@
         "hit": 75,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Def +5"
     },
     {
@@ -570,9 +570,9 @@
         "hit": 70,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Str +5"
     },
     {
@@ -582,10 +582,10 @@
         "hit": 90,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "100 *",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 100,
+        "description": null
     },
     {
         "name": "Glass Lance",
@@ -594,10 +594,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "3",
-        "worth": "600 *",
-        "description": "-"
+        "effect": null,
+        "uses": 3,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Miniature Lance",
@@ -606,10 +606,10 @@
         "hit": 55,
         "crit": 35,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "10",
-        "worth": "650 *",
-        "description": "-"
+        "effect": null,
+        "uses": 10,
+        "worth": 650,
+        "description": null
     },
     {
         "name": "Shockstick",
@@ -618,9 +618,9 @@
         "hit": 85,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1200 *",
+        "effect": null,
+        "uses": 20,
+        "worth": 1200,
         "description": "Counts as magic"
     },
     {
@@ -630,9 +630,9 @@
         "hit": 70,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "2100 *",
+        "effect": null,
+        "uses": 10,
+        "worth": 2100,
         "description": "+Lancebreaker Skill"
     },
     {
@@ -642,9 +642,9 @@
         "hit": 85,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "950 *",
+        "effect": null,
+        "uses": 25,
+        "worth": 950,
         "description": "Def and Luck +2"
     },
     {
@@ -654,9 +654,9 @@
         "hit": 80,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1220 *",
+        "effect": null,
+        "uses": 20,
+        "worth": 1220,
         "description": "Str and Spd +2"
     },
     {
@@ -666,10 +666,10 @@
         "hit": 85,
         "crit": 15,
         "rng": "1",
-        "effect": "-",
-        "uses": "15",
-        "worth": "1920 *",
-        "description": "-"
+        "effect": null,
+        "uses": 15,
+        "worth": 1920,
+        "description": null
     },
     {
         "name": "Bronze Axe",
@@ -678,10 +678,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "50",
-        "worth": "400",
-        "description": "-"
+        "effect": null,
+        "uses": 50,
+        "worth": 400,
+        "description": null
     },
     {
         "name": "Iron Axe",
@@ -690,10 +690,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "40",
-        "worth": "600",
-        "description": "-"
+        "effect": null,
+        "uses": 40,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Steel Axe",
@@ -702,10 +702,10 @@
         "hit": 70,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "35",
-        "worth": "980",
-        "description": "-"
+        "effect": null,
+        "uses": 35,
+        "worth": 980,
+        "description": null
     },
     {
         "name": "Silver Axe",
@@ -714,10 +714,10 @@
         "hit": 65,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1740",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1740,
+        "description": null
     },
     {
         "name": "Brave Axe",
@@ -726,9 +726,9 @@
         "hit": 60,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "2400",
+        "effect": null,
+        "uses": 30,
+        "worth": 2400,
         "description": "2 consecutive attacks"
     },
     {
@@ -738,10 +738,10 @@
         "hit": 70,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "750",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 750,
+        "description": null
     },
     {
         "name": "Short Axe",
@@ -750,10 +750,10 @@
         "hit": 65,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "1750",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 1750,
+        "description": null
     },
     {
         "name": "Tomahawk",
@@ -762,10 +762,10 @@
         "hit": 60,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "2550",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 2550,
+        "description": null
     },
     {
         "name": "Hammer",
@@ -775,9 +775,9 @@
         "crit": 0,
         "rng": "1",
         "effect": "effective against Armour units",
-        "uses": "25",
-        "worth": "1850",
-        "description": "-"
+        "uses": 25,
+        "worth": 1850,
+        "description": null
     },
     {
         "name": "Bolt Axe",
@@ -786,9 +786,9 @@
         "hit": 70,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1920",
+        "effect": null,
+        "uses": 30,
+        "worth": 1920,
         "description": "Counts as magic"
     },
     {
@@ -798,10 +798,10 @@
         "hit": 70,
         "crit": 30,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1860",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1860,
+        "description": null
     },
     {
         "name": "Vengeance",
@@ -810,9 +810,9 @@
         "hit": 75,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "30",
-        "worth": "0",
+        "effect": null,
+        "uses": 30,
+        "worth": 0,
         "description": "+Vengeance Skill"
     },
     {
@@ -822,9 +822,9 @@
         "hit": 75,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "35",
-        "worth": "0",
+        "effect": null,
+        "uses": 35,
+        "worth": 0,
         "description": "Walhart only"
     },
     {
@@ -834,9 +834,9 @@
         "hit": 70,
         "crit": 5,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Can be used to recover all HP"
     },
     {
@@ -846,9 +846,9 @@
         "hit": 60,
         "crit": 10,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Def +5"
     },
     {
@@ -858,9 +858,9 @@
         "hit": 80,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Def +5"
     },
     {
@@ -870,10 +870,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "100 *",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 100,
+        "description": null
     },
     {
         "name": "Glass Axe",
@@ -882,10 +882,10 @@
         "hit": 65,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "3",
-        "worth": "600 *",
-        "description": "-"
+        "effect": null,
+        "uses": 3,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Imposing Axe",
@@ -894,10 +894,10 @@
         "hit": 35,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "830 *",
-        "description": "-"
+        "effect": null,
+        "uses": 10,
+        "worth": 830,
+        "description": null
     },
     {
         "name": "Volant Axe",
@@ -907,9 +907,9 @@
         "crit": 0,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "10",
-        "worth": "1510 *",
-        "description": "-"
+        "uses": 10,
+        "worth": 1510,
+        "description": null
     },
     {
         "name": "Superior Axe",
@@ -918,9 +918,9 @@
         "hit": 60,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "10",
-        "worth": "2150 *",
+        "effect": null,
+        "uses": 10,
+        "worth": 2150,
         "description": "+Axebreaker Skill"
     },
     {
@@ -930,10 +930,10 @@
         "hit": 85,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "20",
-        "worth": "960 *",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 960,
+        "description": null
     },
     {
         "name": "Titania's Axe",
@@ -942,9 +942,9 @@
         "hit": 80,
         "crit": 10,
         "rng": "1",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1320 *",
+        "effect": null,
+        "uses": 20,
+        "worth": 1320,
         "description": "+Patience Skill"
     },
     {
@@ -954,9 +954,9 @@
         "hit": 75,
         "crit": 15,
         "rng": "1",
-        "effect": "-",
-        "uses": "15",
-        "worth": "2010 *",
+        "effect": null,
+        "uses": 15,
+        "worth": 2010,
         "description": "Str and Def +2"
     },
     {
@@ -967,9 +967,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "50",
-        "worth": "350",
-        "description": "-"
+        "uses": 50,
+        "worth": 350,
+        "description": null
     },
     {
         "name": "Iron Bow",
@@ -979,9 +979,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "40",
-        "worth": "560",
-        "description": "-"
+        "uses": 40,
+        "worth": 560,
+        "description": null
     },
     {
         "name": "Steel Bow",
@@ -991,9 +991,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "35",
-        "worth": "910",
-        "description": "-"
+        "uses": 35,
+        "worth": 910,
+        "description": null
     },
     {
         "name": "Silver Bow",
@@ -1003,9 +1003,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "30",
-        "worth": "1560",
-        "description": "-"
+        "uses": 30,
+        "worth": 1560,
+        "description": null
     },
     {
         "name": "Brave Bow",
@@ -1015,8 +1015,8 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "30",
-        "worth": "2220",
+        "uses": 30,
+        "worth": 2220,
         "description": "2 consecutive attacks"
     },
     {
@@ -1027,8 +1027,8 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units,, and Revenant units",
-        "uses": "35",
-        "worth": "1540",
+        "uses": 35,
+        "worth": 1540,
         "description": "Recover 10 HP each Turn"
     },
     {
@@ -1039,9 +1039,9 @@
         "crit": 30,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "30",
-        "worth": "1680",
-        "description": "-"
+        "uses": 30,
+        "worth": 1680,
+        "description": null
     },
     {
         "name": "Longbow",
@@ -1051,8 +1051,8 @@
         "crit": 0,
         "rng": "2~3",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "2150",
+        "uses": 25,
+        "worth": 2150,
         "description": "Archers and Snipers only"
     },
     {
@@ -1063,8 +1063,8 @@
         "crit": 5,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "30",
-        "worth": "0",
+        "uses": 30,
+        "worth": 0,
         "description": "+Astra Skill"
     },
     {
@@ -1075,8 +1075,8 @@
         "crit": 5,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Use to increase Resistance by 5 (effect decreases by 1 each Turn)"
     },
     {
@@ -1087,8 +1087,8 @@
         "crit": 10,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Spd +5"
     },
     {
@@ -1099,8 +1099,8 @@
         "crit": 10,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Luck +10"
     },
     {
@@ -1111,8 +1111,8 @@
         "crit": 10,
         "rng": "2~3",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Archers and Snipers only, Str +5"
     },
     {
@@ -1123,9 +1123,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "20",
-        "worth": "100 *",
-        "description": "-"
+        "uses": 20,
+        "worth": 100,
+        "description": null
     },
     {
         "name": "Glass Bow",
@@ -1135,9 +1135,9 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "3",
-        "worth": "600 *",
-        "description": "-"
+        "uses": 3,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Towering Bow",
@@ -1147,8 +1147,8 @@
         "crit": 0,
         "rng": "2~3",
         "effect": "effective against Flying units",
-        "uses": "10",
-        "worth": "810 *",
+        "uses": 10,
+        "worth": 810,
         "description": "Archers and Snipers only"
     },
     {
@@ -1159,8 +1159,8 @@
         "crit": 5,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "15",
-        "worth": "950 *",
+        "uses": 15,
+        "worth": 950,
         "description": "+Underdog Skill"
     },
     {
@@ -1171,8 +1171,8 @@
         "crit": 0,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "10",
-        "worth": "2160 *",
+        "uses": 10,
+        "worth": 2160,
         "description": "+Bowbreaker Skill"
     },
     {
@@ -1183,8 +1183,8 @@
         "crit": 5,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "950 *",
+        "uses": 25,
+        "worth": 950,
         "description": "Can be used to recover 20 HP"
     },
     {
@@ -1195,9 +1195,9 @@
         "crit": 10,
         "rng": "2",
         "effect": "effective against Flying units",
-        "uses": "15",
-        "worth": "1710 *",
-        "description": "-"
+        "uses": 15,
+        "worth": 1710,
+        "description": null
     },
     {
         "name": "Fire",
@@ -1206,10 +1206,10 @@
         "hit": 90,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "45",
-        "worth": "540",
-        "description": "-"
+        "effect": null,
+        "uses": 45,
+        "worth": 540,
+        "description": null
     },
     {
         "name": "Elfire",
@@ -1218,10 +1218,10 @@
         "hit": 85,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "35",
-        "worth": "980",
-        "description": "-"
+        "effect": null,
+        "uses": 35,
+        "worth": 980,
+        "description": null
     },
     {
         "name": "Arcfire",
@@ -1230,10 +1230,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1440",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1440,
+        "description": null
     },
     {
         "name": "Bolganone",
@@ -1242,10 +1242,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "2000",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 2000,
+        "description": null
     },
     {
         "name": "Valflame",
@@ -1254,9 +1254,9 @@
         "hit": 80,
         "crit": 10,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Mag +5"
     },
     {
@@ -1266,10 +1266,10 @@
         "hit": 80,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "45",
-        "worth": "630",
-        "description": "-"
+        "effect": null,
+        "uses": 45,
+        "worth": 630,
+        "description": null
     },
     {
         "name": "Elthunder",
@@ -1278,10 +1278,10 @@
         "hit": 75,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "35",
-        "worth": "1050",
-        "description": "-"
+        "effect": null,
+        "uses": 35,
+        "worth": 1050,
+        "description": null
     },
     {
         "name": "Arcthunder",
@@ -1290,10 +1290,10 @@
         "hit": 70,
         "crit": 10,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "30",
-        "worth": "1620",
-        "description": "-"
+        "effect": null,
+        "uses": 30,
+        "worth": 1620,
+        "description": null
     },
     {
         "name": "Thoron",
@@ -1302,10 +1302,10 @@
         "hit": 65,
         "crit": 10,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "2200",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 2200,
+        "description": null
     },
     {
         "name": "Mjolnir",
@@ -1314,9 +1314,9 @@
         "hit": 70,
         "crit": 20,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
         "description": "Skill +5"
     },
     {
@@ -1327,9 +1327,9 @@
         "crit": 0,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "45",
-        "worth": "450",
-        "description": "-"
+        "uses": 45,
+        "worth": 450,
+        "description": null
     },
     {
         "name": "Elwind",
@@ -1339,9 +1339,9 @@
         "crit": 0,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "35",
-        "worth": "910",
-        "description": "-"
+        "uses": 35,
+        "worth": 910,
+        "description": null
     },
     {
         "name": "Arcwind",
@@ -1351,9 +1351,9 @@
         "crit": 0,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "30",
-        "worth": "1320",
-        "description": "-"
+        "uses": 30,
+        "worth": 1320,
+        "description": null
     },
     {
         "name": "Rexcalibur",
@@ -1363,9 +1363,9 @@
         "crit": 0,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "1900",
-        "description": "-"
+        "uses": 25,
+        "worth": 1900,
+        "description": null
     },
     {
         "name": "Excalibur",
@@ -1375,9 +1375,9 @@
         "crit": 30,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
-        "description": "-"
+        "uses": 25,
+        "worth": 0,
+        "description": null
     },
     {
         "name": "Forseti",
@@ -1387,8 +1387,8 @@
         "crit": 10,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Spd +5"
     },
     {
@@ -1399,8 +1399,8 @@
         "crit": 15,
         "rng": "1~2",
         "effect": "effective against Dragon units",
-        "uses": "25",
-        "worth": "0",
+        "uses": 25,
+        "worth": 0,
         "description": "Def and Res +5"
     },
     {
@@ -1410,10 +1410,10 @@
         "hit": 70,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "45",
-        "worth": "540",
-        "description": "-"
+        "effect": null,
+        "uses": 45,
+        "worth": 540,
+        "description": null
     },
     {
         "name": "Nosferatu",
@@ -1422,9 +1422,9 @@
         "hit": 65,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "20",
-        "worth": "980",
+        "effect": null,
+        "uses": 20,
+        "worth": 980,
         "description": "Recover HP equal to half the damage dealt to the enemy"
     },
     {
@@ -1434,10 +1434,10 @@
         "hit": 60,
         "crit": 50,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1380",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 1380,
+        "description": null
     },
     {
         "name": "Waste",
@@ -1446,9 +1446,9 @@
         "hit": 45,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "30",
-        "worth": "2160",
+        "effect": null,
+        "uses": 30,
+        "worth": 2160,
         "description": "2 consecutive attacks"
     },
     {
@@ -1458,10 +1458,10 @@
         "hit": 75,
         "crit": 10,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "25",
-        "worth": "0",
-        "description": "-"
+        "effect": null,
+        "uses": 25,
+        "worth": 0,
+        "description": null
     },
     {
         "name": "Grima's Truth",
@@ -1470,10 +1470,10 @@
         "hit": 80,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "-",
+        "effect": null,
+        "uses": null,
         "worth": "0",
-        "description": "-"
+        "description": null
     },
     {
         "name": "Mire",
@@ -1482,9 +1482,9 @@
         "hit": 65,
         "crit": 0,
         "rng": "3~10",
-        "effect": "-",
-        "uses": "10",
-        "worth": "2000",
+        "effect": null,
+        "uses": 10,
+        "worth": 2000,
         "description": "Cannot double attack *2, negates user's offensive trigger Skills (e.g. Astra) and support unit's Dual Strikes"
     },
     {
@@ -1494,10 +1494,10 @@
         "hit": 75,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "3",
-        "worth": "600 *1",
-        "description": "-"
+        "effect": null,
+        "uses": 3,
+        "worth": 600,
+        "description": null
     },
     {
         "name": "Micaiah's Pyre",
@@ -1506,9 +1506,9 @@
         "hit": 85,
         "crit": 5,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "15",
-        "worth": "2130 *1",
+        "effect": null,
+        "uses": 15,
+        "worth": 2130,
         "description": "Def and Res +2"
     },
     {
@@ -1518,9 +1518,9 @@
         "hit": 60,
         "crit": 15,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "10",
-        "worth": "2320 *1",
+        "effect": null,
+        "uses": 10,
+        "worth": 2320,
         "description": "+Tomebreaker Skill"
     },
     {
@@ -1530,10 +1530,10 @@
         "hit": 75,
         "crit": 30,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "20",
-        "worth": "1920 *1",
-        "description": "-"
+        "effect": null,
+        "uses": 20,
+        "worth": 1920,
+        "description": null
     },
     {
         "name": "Wilderwind",
@@ -1543,9 +1543,9 @@
         "crit": 35,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "5",
-        "worth": "760 *1",
-        "description": "-"
+        "uses": 5,
+        "worth": 760,
+        "description": null
     },
     {
         "name": "Celica's Gale",
@@ -1555,8 +1555,8 @@
         "crit": 5,
         "rng": "1~2",
         "effect": "effective against Flying units",
-        "uses": "20",
-        "worth": "1720 *1",
+        "uses": 20,
+        "worth": 1720,
         "description": "2 consecutive attacks"
     },
     {
@@ -1566,483 +1566,813 @@
         "hit": 75,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "10",
-        "worth": "2340 *1",
+        "effect": null,
+        "uses": 10,
+        "worth": 2340,
         "description": "Recover HP equal to half the damage dealt to the enemy"
     },
     {
         "name": "Heal",
         "rank": "E",
         "rng": "1",
-        "uses": "30",
-        "worth": "600",
+        "uses": 30,
+        "worth": 600,
         "exp": 17,
-        "description": "Restores a small amount of HP to an ally"
+        "description": "Restores a small amount of HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Mend",
         "rank": "D",
         "rng": "1",
-        "uses": "20",
-        "worth": "1000",
+        "uses": 20,
+        "worth": 1000,
         "exp": 22,
-        "description": "Restores a medium amount of HP to an ally"
+        "description": "Restores a medium amount of HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Physic",
         "rank": "C",
         "rng": "1~Mag/2",
-        "uses": "10",
-        "worth": "1800",
+        "uses": 10,
+        "worth": 1800,
         "exp": 30,
-        "description": "Restores a small amount of HP to an ally"
+        "description": "Restores a small amount of HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Recover",
         "rank": "B",
         "rng": "1",
-        "uses": "15",
-        "worth": "1950",
+        "uses": 15,
+        "worth": 1950,
         "exp": 40,
-        "description": "Restores all HP to an ally"
+        "description": "Restores all HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Fortify",
         "rank": "A",
         "rng": "1~Mag/2",
-        "uses": "5",
-        "worth": "2500",
+        "uses": 5,
+        "worth": 2500,
         "exp": 60,
-        "description": "Restores a small amount of HP to all allies in range"
+        "description": "Restores a small amount of HP to all allies in range",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Goddess Staff",
         "rank": "A",
         "rng": "1~Mag/2",
-        "uses": "1",
-        "worth": "0",
+        "uses": 1,
+        "worth": 0,
         "exp": 100,
-        "description": "Restores all HP to all allies in range"
+        "description": "Restores all HP to all allies in range",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Rescue",
         "rank": "E",
         "rng": "1~Mag/2",
-        "uses": "5",
-        "worth": "1280",
+        "uses": 5,
+        "worth": 1280,
         "exp": 40,
-        "description": "Transports a distant ally to the caster\u2019s side"
+        "description": "Transports a distant ally to the caster's side",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Ward",
         "rank": "C",
         "rng": "1~Mag/2",
-        "uses": "5",
-        "worth": "2100",
+        "uses": 5,
+        "worth": 2100,
         "exp": 30,
-        "description": "Boosts ally\u2019s Res by 5 (decreases by 1 each Turn)"
+        "description": "Boosts ally's Res by 5 (decreases by 1 each Turn)",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Hammerne",
         "rank": "B",
         "rng": "1",
-        "uses": "1",
-        "worth": "2000",
+        "uses": 1,
+        "worth": 2000,
         "exp": 50,
-        "description": "Fully repairs an ally\u2019s weapon or staff"
+        "description": "Fully repairs an ally's weapon or staff",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Kneader",
         "rank": "E",
         "rng": "1",
-        "uses": "20",
-        "worth": "100*",
+        "uses": 20,
+        "worth": 100,
         "exp": 12,
-        "description": "Restores a tiny amount of HP to an ally"
+        "description": "Restores a tiny amount of HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Balmwood Staff",
         "rank": "D",
         "rng": "1",
-        "uses": "15",
-        "worth": "1200*",
+        "uses": 15,
+        "worth": 1200,
         "exp": 22,
-        "description": "Restores HP to an ally or the user"
+        "description": "Restores HP to an ally or the user",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Catharsis",
         "rank": "B",
         "rng": "1~Mag/2",
-        "uses": "5",
-        "worth": "2100*",
+        "uses": 5,
+        "worth": 2100,
         "exp": 35,
-        "description": "Restores a medium amount of HP to an ally"
+        "description": "Restores a medium amount of HP to an ally",
+        "effect": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Beaststone",
-        "rank": "-",
+        "rank": null,
         "mt": 6,
         "hit": 80,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "50",
-        "worth": "2000",
+        "effect": null,
+        "uses": 50,
+        "worth": 2000,
         "description": "Taguel only, Str +3, Skl +5, Spd +5, Lck +4, Def +1"
     },
     {
         "name": "Beaststone+",
-        "rank": "-",
+        "rank": null,
         "mt": 10,
         "hit": 70,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "35",
-        "worth": "3220",
+        "effect": null,
+        "uses": 35,
+        "worth": 3220,
         "description": "Taguel only, Str +5, Skl +8, Spd +8, Lck +6, Def +4, Res +2"
     },
     {
         "name": "Dragonstone",
-        "rank": "-",
+        "rank": null,
         "mt": 8,
         "hit": 80,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "50",
-        "worth": "2300",
+        "effect": null,
+        "uses": 50,
+        "worth": 2300,
         "description": "Manaketes only, Str +8, Mag +5, Skl +3, Spd +2, Def +10, Res +7"
     },
     {
         "name": "Dragonstone+",
-        "rank": "-",
+        "rank": null,
         "mt": 12,
         "hit": 70,
         "crit": 0,
         "rng": "1~2",
-        "effect": "-",
-        "uses": "35",
-        "worth": "3780",
+        "effect": null,
+        "uses": 35,
+        "worth": 3780,
         "description": "Manaketes only, Str +11, Mag +6, Skl +5, Spd +4, Def +13, Res +9"
     },
     {
         "name": "Blighted Claws",
-        "rank": "-",
+        "rank": null,
         "mt": 12,
         "hit": 75,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "-",
+        "effect": null,
+        "uses": null,
         "worth": "N/A",
         "description": "Revenants and Entombed only"
     },
     {
         "name": "Blighted Talons",
-        "rank": "-",
+        "rank": null,
         "mt": 16,
         "hit": 65,
         "crit": 0,
         "rng": "1",
-        "effect": "-",
-        "uses": "-",
+        "effect": null,
+        "uses": null,
         "worth": "N/A",
         "description": "Revenants and Entombed only"
     },
     {
         "name": "Expiration",
-        "rank": "-",
+        "rank": null,
         "mt": 20,
         "hit": 80,
         "crit": 0,
         "rng": "1~5",
-        "effect": "-",
-        "uses": "-",
+        "effect": null,
+        "uses": null,
         "worth": "N/A",
         "description": "Grima only"
     },
     {
         "name": "Vulnerary",
-        "uses": "3",
-        "worth": "300",
-        "description": "Restores 10 HP"
+        "uses": 3,
+        "worth": 300,
+        "description": "Restores 10 HP",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Concoction",
-        "uses": "3",
-        "worth": "600",
-        "description": "Restores 20 HP"
+        "uses": 3,
+        "worth": 600,
+        "description": "Restores 20 HP",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Elixir",
-        "uses": "3",
-        "worth": "900",
-        "description": "Restores all HP"
+        "uses": 3,
+        "worth": 900,
+        "description": "Restores all HP",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Pure Water",
-        "uses": "3",
-        "worth": "600",
-        "description": "Temporarily increases Resistance by 5 (effect decreases by 1 each Turn)"
+        "uses": 3,
+        "worth": 600,
+        "description": "Temporarily increases Resistance by 5 (effect decreases by 1 each Turn)",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "HP Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Max HP +5 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Max HP +5 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Strength Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Strength +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Strength +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Magic Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Magic +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Magic +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Skill Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Skill +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Skill +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Speed Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Speed +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Speed +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Luck Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Luck +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Luck +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Defence Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Defence +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Defence +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Resistance Tonic",
-        "uses": "1",
-        "worth": "150",
-        "description": "Resistance +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 150,
+        "description": "Resistance +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Door Key",
-        "uses": "1",
-        "worth": "300",
-        "description": "Opens a door"
+        "uses": 1,
+        "worth": 300,
+        "description": "Opens a door",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Chest Key",
-        "uses": "1",
-        "worth": "300",
-        "description": "Opens a chest"
+        "uses": 1,
+        "worth": 300,
+        "description": "Opens a chest",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Master Key",
-        "uses": "1",
-        "worth": "500",
-        "description": "Opens doors or chests"
+        "uses": 1,
+        "worth": 500,
+        "description": "Opens doors or chests",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Seraph Robe",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises HP by 5"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises HP by 5",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Energy Drop",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Strength by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Strength by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Spirit Dust",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Magic by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Magic by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Secret Book",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Skill by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Skill by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Speedwing",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Speed by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Speed by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Goddess Icon",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Luck by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Luck by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Dracoshield",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Defence by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Defence by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Talisman",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Resistance by 2"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Resistance by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Naga's Tear",
-        "uses": "1",
-        "worth": "5000",
-        "description": "Permanently raises Max HP by 5 and other stats by 2"
+        "uses": 1,
+        "worth": 5000,
+        "description": "Permanently raises Max HP by 5 and other stats by 2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Boots",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises Movement by 2 (cannot be used on the same character twice)"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises Movement by 2 (cannot be used on the same character twice)",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Arms Scroll",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Permanently raises all displayed weapon ranks by 1 level"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Permanently raises all displayed weapon ranks by 1 level",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Master Seal",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Upgrades a Level 10 or higher unit to a promoted class"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Upgrades a Level 10 or higher unit to a promoted class",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Second Seal",
-        "uses": "1",
-        "worth": "2500",
-        "description": "Reclasses a Level 10 or higher (or promoted) unit to a different class"
+        "uses": 1,
+        "worth": 2500,
+        "description": "Reclasses a Level 10 or higher (or promoted) unit to a different class",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Bullion (S)",
-        "uses": "-",
+        "uses": null,
         "worth": "2000",
-        "description": "Sells for 1,000G"
+        "description": "Sells for 1,000G",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Bullion (M)",
-        "uses": "-",
+        "uses": null,
         "worth": "10000",
-        "description": "Sells for 5,000G"
+        "description": "Sells for 5,000G",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Bullion (L)",
-        "uses": "-",
+        "uses": null,
         "worth": "20000",
-        "description": "Sells for 10,000G"
+        "description": "Sells for 10,000G",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Sweet Tincture",
-        "uses": "3",
-        "worth": "150 *1",
-        "description": "Restores HP"
+        "uses": 3,
+        "worth": 150,
+        "description": "Restores HP",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Gaius's Confect",
-        "uses": "5",
-        "worth": "2000 *1",
-        "description": "Strength, Skill and Speed +2 until the chapter/skirmish's end"
+        "uses": 5,
+        "worth": 2000,
+        "description": "Strength, Skill and Speed +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Kris's Confect",
-        "uses": "5",
-        "worth": "1000 *1",
-        "description": "Max HP +5, Defence and Resistance +2 until the chapter/skirmish's end"
+        "uses": 5,
+        "worth": 1000,
+        "description": "Max HP +5, Defence and Resistance +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Tiki's Tear",
-        "uses": "1",
-        "worth": "1000 *1",
-        "description": "Max HP +5 and all other stats +2 until the chapter/skirmish's end"
+        "uses": 1,
+        "worth": 1000,
+        "description": "Max HP +5 and all other stats +2 until the chapter/skirmish's end",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Seed of Trust",
-        "uses": "1",
-        "worth": "1000 *1",
-        "description": "Can be used to improve support relationships when paired up"
+        "uses": 1,
+        "worth": 1000,
+        "description": "Can be used to improve support relationships when paired up",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Reeking Box",
-        "uses": "1",
-        "worth": "500 *1",
-        "description": "Summons risen soldiers to the world map (costs 4800G on Hard mode and above)"
+        "uses": 1,
+        "worth": 500,
+        "description": "Summons risen soldiers to the world map (costs 4800G on Hard mode and above)",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Rift Door",
-        "uses": "1",
-        "worth": "1000 *1",
-        "description": "Summons merchants to the world map"
+        "uses": 1,
+        "worth": 1000,
+        "description": "Summons merchants to the world map",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Supreme Emblem",
-        "uses": "1",
+        "uses": 1,
         "worth": "N/A",
-        "description": "Reward for achieving max Renown. Sells for 99,999G"
+        "description": "Reward for achieving max Renown. Sells for 99,999G",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Dread Scroll",
-        "uses": "1",
-        "worth": "-",
-        "description": "Changes a Level 10 or higher (or any Level if promoted) male unit to the Dread Fighter class *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Changes a Level 10 or higher (or any Level if promoted) male unit to the Dread Fighter class *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Wedding Bouquet",
-        "uses": "1",
-        "worth": "-",
-        "description": "Changes a Level 10 or higher (or any Level if promoted) female unit to the Bride class *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Changes a Level 10 or higher (or any Level if promoted) female unit to the Bride class *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "All Stats +2",
-        "uses": "1",
-        "worth": "-",
-        "description": "Teaches the All Stats +2 Skill when used *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Teaches the All Stats +2 Skill when used *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Paragon",
-        "uses": "1",
-        "worth": "-",
-        "description": "Teaches the Paragon Skill when used *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Teaches the Paragon Skill when used *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Iote's Shield",
-        "uses": "1",
-        "worth": "-",
-        "description": "Teaches the Iote's Shield Skill when used *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Teaches the Iote's Shield Skill when used *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Limit Breaker",
-        "uses": "1",
-        "worth": "-",
-        "description": "Teaches the Limit Breaker Skill when used *2"
+        "uses": 1,
+        "worth": null,
+        "description": "Teaches the Limit Breaker Skill when used *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Silver Card",
-        "uses": "1",
-        "worth": "-",
-        "description": "The user can purchase items for half price *2"
+        "uses": 1,
+        "worth": null,
+        "description": "The user can purchase items for half price *2",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     },
     {
         "name": "Outrealm Item",
-        "uses": "1",
-        "worth": "-",
-        "description": "What a DLC-exclusive item looks like to a player without DLC installed"
+        "uses": 1,
+        "worth": null,
+        "description": "What a DLC-exclusive item looks like to a player without DLC installed",
+        "rank": null,
+        "effect": null,
+        "rng": null,
+        "hit": null,
+        "crit": null,
+        "mt": null
     }
 ]
