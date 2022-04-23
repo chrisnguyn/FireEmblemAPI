@@ -2,6 +2,7 @@ import routing
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
+from models import Character
 
 app = FastAPI()
 
@@ -21,12 +22,12 @@ async def get_games():
     return routing.get_games()
 
 
-@app.get('/{game}/character/{character}')
+@app.get('/{game}/character/{character}', response_model=Character)
 async def get_character(game: str, character: str):
     return routing.get_character(game, character)
 
 
-@app.get('/{game}/characters')
+@app.get('/{game}/characters', response_model=list[Character])
 async def get_characters(game: str):
     return routing.get_characters(game)
 
