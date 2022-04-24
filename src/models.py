@@ -24,6 +24,11 @@ class Game():
 
         return characters
 
+    def get_items(self) -> list[dict]:
+        items = self.__load_json('%s/items.json' % self.title)
+
+        return items
+
     def get_skills(self) -> list[dict]:
         skills = self.__load_json('%s/skills.json' % self.title)
 

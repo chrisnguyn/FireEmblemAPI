@@ -19,6 +19,10 @@ def get_characters(game: str) -> dict:
     return mapping[game].get_characters()
 
 
+def get_items(game: str) -> dict:
+    return mapping[game].get_items()
+
+
 def get_skills(game: str) -> dict:
     return mapping[game].get_skills()
 
