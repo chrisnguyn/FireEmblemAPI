@@ -31,6 +31,11 @@ async def get_characters(game: str):
     return routing.get_characters(game)
 
 
+@app.get('/{game}/items')
+async def get_items(game: str):
+    return routing.get_items(game)
+
+
 @app.get('/{game}/skills')
 async def get_skills(game: str):
     return routing.get_skills(game)
