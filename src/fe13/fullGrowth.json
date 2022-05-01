@@ -1,0 +1,2880 @@
+[
+    {
+        "name": "Avatar",
+        "Tactician/Grandmaster": {
+            "hp": 80,
+            "str": 55,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Cavalier": {
+            "hp": 85,
+            "str": 60,
+            "mag": 35,
+            "skl": 55,
+            "spd": 55,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Paladin": {
+            "hp": 85,
+            "str": 60,
+            "mag": 35,
+            "skl": 55,
+            "spd": 55,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Great Knight": {
+            "hp": 90,
+            "str": 65,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 45,
+            "res": 25
+        },
+        "Knight": {
+            "hp": 90,
+            "str": 65,
+            "mag": 35,
+            "skl": 50,
+            "spd": 45,
+            "lck": 55,
+            "def": 45,
+            "res": 25
+        },
+        "General": {
+            "hp": 90,
+            "str": 65,
+            "mag": 35,
+            "skl": 50,
+            "spd": 45,
+            "lck": 55,
+            "def": 45,
+            "res": 30
+        },
+        "Myrmidon": {
+            "hp": 80,
+            "str": 60,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Swordmaster": {
+            "hp": 80,
+            "str": 60,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Mercenary/Hero": {
+            "hp": 85,
+            "str": 60,
+            "mag": 35,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Fighter/Warrior": {
+            "hp": 85,
+            "str": 65,
+            "mag": 35,
+            "skl": 55,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Barbarian/Berserker": {
+            "hp": 90,
+            "str": 65,
+            "mag": 35,
+            "skl": 50,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Archer": {
+            "hp": 85,
+            "str": 55,
+            "mag": 35,
+            "skl": 65,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Sniper": {
+            "hp": 85,
+            "str": 55,
+            "mag": 35,
+            "skl": 65,
+            "spd": 50,
+            "lck": 55,
+            "def": 45,
+            "res": 25
+        },
+        "Bow Knight": {
+            "hp": 90,
+            "str": 60,
+            "mag": 35,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Thief": {
+            "hp": 75,
+            "str": 55,
+            "mag": 40,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Assassin": {
+            "hp": 80,
+            "str": 60,
+            "mag": 35,
+            "skl": 65,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Trickster": {
+            "hp": 75,
+            "str": 50,
+            "mag": 50,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Pegasus Knight": {
+            "hp": 80,
+            "str": 55,
+            "mag": 40,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Falcon Knight": {
+            "hp": 80,
+            "str": 55,
+            "mag": 45,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Dark Flier": {
+            "hp": 80,
+            "str": 50,
+            "mag": 50,
+            "skl": 55,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 85,
+            "str": 70,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Griffon Rider": {
+            "hp": 85,
+            "str": 65,
+            "mag": 35,
+            "skl": 55,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Mage/Sage": {
+            "hp": 75,
+            "str": 40,
+            "mag": 55,
+            "skl": 55,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Dark Mage": {
+            "hp": 90,
+            "str": 45,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Sorcerer": {
+            "hp": 85,
+            "str": 40,
+            "mag": 55,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Dark Knight": {
+            "hp": 90,
+            "str": 55,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 25
+        },
+        "Priest/Cleric": {
+            "hp": 75,
+            "str": 45,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 35,
+            "res": 35
+        },
+        "War Monk/Cleric": {
+            "hp": 85,
+            "str": 55,
+            "mag": 50,
+            "skl": 45,
+            "spd": 50,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Troubadour/Valkyrie": {
+            "hp": 75,
+            "str": 40,
+            "mag": 55,
+            "skl": 45,
+            "spd": 55,
+            "lck": 55,
+            "def": 35,
+            "res": 35
+        }
+    },
+    {
+        "name": "Chrom",
+        "Lord/Great Lord": {
+            "hp": 85,
+            "str": 60,
+            "mag": 10,
+            "skl": 60,
+            "spd": 60,
+            "lck": 70,
+            "def": 45,
+            "res": 25
+        },
+        "Cavalier": {
+            "hp": 90,
+            "str": 60,
+            "mag": 10,
+            "skl": 60,
+            "spd": 60,
+            "lck": 70,
+            "def": 45,
+            "res": 25
+        },
+        "Paladin": {
+            "hp": 90,
+            "str": 60,
+            "mag": 10,
+            "skl": 60,
+            "spd": 60,
+            "lck": 70,
+            "def": 45,
+            "res": 30
+        },
+        "Great Knight": {
+            "hp": 95,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 55,
+            "lck": 70,
+            "def": 50,
+            "res": 25
+        },
+        "Archer": {
+            "hp": 90,
+            "str": 55,
+            "mag": 10,
+            "skl": 70,
+            "spd": 55,
+            "lck": 70,
+            "def": 45,
+            "res": 25
+        },
+        "Sniper": {
+            "hp": 90,
+            "str": 55,
+            "mag": 10,
+            "skl": 70,
+            "spd": 55,
+            "lck": 70,
+            "def": 50,
+            "res": 25
+        },
+        "Bow Knight": {
+            "hp": 95,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 60,
+            "lck": 70,
+            "def": 40,
+            "res": 25
+        }
+    },
+    {
+        "name": "Lissa",
+        "Priest/Cleric": {
+            "hp": 70,
+            "str": 30,
+            "mag": 50,
+            "skl": 45,
+            "spd": 50,
+            "lck": 65,
+            "def": 20,
+            "res": 50
+        },
+        "War Monk/Cleric": {
+            "hp": 80,
+            "str": 40,
+            "mag": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 65,
+            "def": 25,
+            "res": 45
+        },
+        "Mage/Sage": {
+            "hp": 70,
+            "str": 25,
+            "mag": 55,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 20,
+            "res": 45
+        },
+        "Pegasus Knight": {
+            "hp": 75,
+            "str": 40,
+            "mag": 40,
+            "skl": 55,
+            "spd": 60,
+            "lck": 65,
+            "def": 20,
+            "res": 45
+        },
+        "Falcon Knight": {
+            "hp": 75,
+            "str": 40,
+            "mag": 45,
+            "skl": 55,
+            "spd": 60,
+            "lck": 65,
+            "def": 20,
+            "res": 45
+        },
+        "Dark Flier": {
+            "hp": 75,
+            "str": 35,
+            "mag": 50,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 20,
+            "res": 45
+        },
+        "Troubadour/Valkyrie": {
+            "hp": 70,
+            "str": 25,
+            "mag": 55,
+            "skl": 40,
+            "spd": 55,
+            "lck": 65,
+            "def": 20,
+            "res": 50
+        }
+    },
+    {
+        "name": "Frederick",
+        "Great Knight": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 40,
+            "def": 55,
+            "res": 25
+        },
+        "Cavalier": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Paladin": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 30
+        },
+        "Knight": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 40,
+            "def": 55,
+            "res": 25
+        },
+        "General": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 40,
+            "def": 55,
+            "res": 30
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 105,
+            "str": 70,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Griffon Rider": {
+            "hp": 105,
+            "str": 65,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        }
+    },
+    {
+        "name": "Sully",
+        "Cavalier": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 45,
+            "res": 25
+        },
+        "Paladin": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 45,
+            "res": 30
+        },
+        "Great Knight": {
+            "hp": 90,
+            "str": 60,
+            "mag": 20,
+            "skl": 55,
+            "spd": 55,
+            "lck": 60,
+            "def": 50,
+            "res": 25
+        },
+        "Myrmidon": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 65,
+            "spd": 65,
+            "lck": 60,
+            "def": 40,
+            "res": 25
+        },
+        "Swordmaster": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 65,
+            "spd": 65,
+            "lck": 60,
+            "def": 40,
+            "res": 30
+        },
+        "Assassin": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 70,
+            "spd": 65,
+            "lck": 60,
+            "def": 40,
+            "res": 25
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 85,
+            "str": 65,
+            "mag": 20,
+            "skl": 55,
+            "spd": 55,
+            "lck": 60,
+            "def": 45,
+            "res": 25
+        },
+        "Griffon Rider": {
+            "hp": 85,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 40,
+            "res": 25
+        }
+    },
+    {
+        "name": "Virion",
+        "Archer": {
+            "hp": 80,
+            "str": 55,
+            "mag": 30,
+            "skl": 70,
+            "spd": 60,
+            "lck": 40,
+            "def": 35,
+            "res": 30
+        },
+        "Sniper": {
+            "hp": 80,
+            "str": 55,
+            "mag": 30,
+            "skl": 70,
+            "spd": 60,
+            "lck": 40,
+            "def": 40,
+            "res": 30
+        },
+        "Bow Knight": {
+            "hp": 85,
+            "str": 60,
+            "mag": 30,
+            "skl": 65,
+            "spd": 65,
+            "lck": 40,
+            "def": 30,
+            "res": 30
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 80,
+            "str": 70,
+            "mag": 30,
+            "skl": 55,
+            "spd": 60,
+            "lck": 40,
+            "def": 35,
+            "res": 30
+        },
+        "Griffon Rider": {
+            "hp": 80,
+            "str": 65,
+            "mag": 30,
+            "skl": 60,
+            "spd": 65,
+            "lck": 40,
+            "def": 30,
+            "res": 30
+        },
+        "Mage/Sage": {
+            "hp": 70,
+            "str": 40,
+            "mag": 50,
+            "skl": 60,
+            "spd": 65,
+            "lck": 40,
+            "def": 30,
+            "res": 35
+        },
+        "Dark Knight": {
+            "hp": 85,
+            "str": 55,
+            "mag": 45,
+            "skl": 55,
+            "spd": 60,
+            "lck": 40,
+            "def": 35,
+            "res": 30
+        }
+    },
+    {
+        "name": "Stahl",
+        "Cavalier": {
+            "hp": 95,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 50,
+            "def": 60,
+            "res": 15
+        },
+        "Paladin": {
+            "hp": 95,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 50,
+            "def": 60,
+            "res": 20
+        },
+        "Great Knight": {
+            "hp": 100,
+            "str": 70,
+            "mag": 10,
+            "skl": 50,
+            "spd": 45,
+            "lck": 50,
+            "def": 65,
+            "res": 15
+        },
+        "Archer": {
+            "hp": 95,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 45,
+            "lck": 50,
+            "def": 60,
+            "res": 15
+        },
+        "Sniper": {
+            "hp": 95,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 45,
+            "lck": 50,
+            "def": 65,
+            "res": 15
+        },
+        "Bow Knight": {
+            "hp": 100,
+            "str": 65,
+            "mag": 10,
+            "skl": 60,
+            "spd": 50,
+            "lck": 50,
+            "def": 55,
+            "res": 15
+        },
+        "Myrmidon": {
+            "hp": 90,
+            "str": 65,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 50,
+            "def": 55,
+            "res": 15
+        },
+        "Swordmaster": {
+            "hp": 90,
+            "str": 65,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 50,
+            "def": 55,
+            "res": 20
+        },
+        "Assassin": {
+            "hp": 90,
+            "str": 65,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 50,
+            "def": 55,
+            "res": 15
+        }
+    },
+    {
+        "name": "Vaike",
+        "Fighter/Warrior": {
+            "hp": 105,
+            "str": 75,
+            "mag": 10,
+            "skl": 65,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 10
+        },
+        "Mercenary/Hero": {
+            "hp": 105,
+            "str": 70,
+            "mag": 10,
+            "skl": 70,
+            "spd": 55,
+            "lck": 45,
+            "def": 50,
+            "res": 10
+        },
+        "Barbarian/Berserker": {
+            "hp": 110,
+            "str": 75,
+            "mag": 10,
+            "skl": 60,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 10
+        },
+        "Thief": {
+            "hp": 95,
+            "str": 65,
+            "mag": 15,
+            "skl": 70,
+            "spd": 60,
+            "lck": 45,
+            "def": 45,
+            "res": 10
+        },
+        "Assassin": {
+            "hp": 100,
+            "str": 70,
+            "mag": 10,
+            "skl": 75,
+            "spd": 60,
+            "lck": 45,
+            "def": 45,
+            "res": 10
+        },
+        "Trickster": {
+            "hp": 95,
+            "str": 60,
+            "mag": 25,
+            "skl": 70,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 15
+        }
+    },
+    {
+        "name": "Miriel",
+        "Mage/Sage": {
+            "hp": 70,
+            "str": 15,
+            "mag": 60,
+            "skl": 60,
+            "spd": 60,
+            "lck": 50,
+            "def": 25,
+            "res": 40
+        },
+        "Dark Knight": {
+            "hp": 85,
+            "str": 30,
+            "mag": 55,
+            "skl": 55,
+            "spd": 55,
+            "lck": 50,
+            "def": 30,
+            "res": 35
+        },
+        "Dark Mage": {
+            "hp": 85,
+            "str": 20,
+            "mag": 55,
+            "skl": 55,
+            "spd": 55,
+            "lck": 50,
+            "def": 30,
+            "res": 40
+        },
+        "Sorcerer": {
+            "hp": 80,
+            "str": 15,
+            "mag": 60,
+            "skl": 55,
+            "spd": 55,
+            "lck": 50,
+            "def": 30,
+            "res": 40
+        },
+        "Troubadour/Valkyrie": {
+            "hp": 70,
+            "str": 15,
+            "mag": 60,
+            "skl": 50,
+            "spd": 60,
+            "lck": 50,
+            "def": 25,
+            "res": 45
+        },
+        "War Monk/Cleric": {
+            "hp": 80,
+            "str": 30,
+            "mag": 55,
+            "skl": 50,
+            "spd": 55,
+            "lck": 50,
+            "def": 30,
+            "res": 40
+        }
+    },
+    {
+        "name": "Sumia",
+        "Pegasus Knight": {
+            "hp": 75,
+            "str": 45,
+            "mag": 25,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 30,
+            "res": 40
+        },
+        "Falcon Knight": {
+            "hp": 75,
+            "str": 45,
+            "mag": 30,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 30,
+            "res": 40
+        },
+        "Dark Flier": {
+            "hp": 75,
+            "str": 40,
+            "mag": 35,
+            "skl": 65,
+            "spd": 65,
+            "lck": 60,
+            "def": 30,
+            "res": 40
+        },
+        "Knight": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 60,
+            "spd": 55,
+            "lck": 60,
+            "def": 40,
+            "res": 35
+        },
+        "General": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 60,
+            "spd": 55,
+            "lck": 60,
+            "def": 40,
+            "res": 40
+        },
+        "Great Knight": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 40,
+            "res": 35
+        },
+        "Priest/Cleric": {
+            "hp": 70,
+            "str": 35,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 30,
+            "res": 45
+        },
+        "War Monk/Cleric": {
+            "hp": 80,
+            "str": 45,
+            "mag": 35,
+            "skl": 55,
+            "spd": 60,
+            "lck": 60,
+            "def": 35,
+            "res": 40
+        },
+        "Mage/Sage": {
+            "hp": 70,
+            "str": 30,
+            "mag": 40,
+            "skl": 65,
+            "spd": 65,
+            "lck": 60,
+            "def": 30,
+            "res": 40
+        }
+    },
+    {
+        "name": "Kellam",
+        "Knight": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 55,
+            "spd": 45,
+            "lck": 35,
+            "def": 70,
+            "res": 35
+        },
+        "General": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 55,
+            "spd": 45,
+            "lck": 35,
+            "def": 70,
+            "res": 40
+        },
+        "Great Knight": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 55,
+            "spd": 50,
+            "lck": 35,
+            "def": 70,
+            "res": 35
+        },
+        "Thief": {
+            "hp": 85,
+            "str": 55,
+            "mag": 20,
+            "skl": 65,
+            "spd": 60,
+            "lck": 35,
+            "def": 60,
+            "res": 35
+        },
+        "Assassin": {
+            "hp": 90,
+            "str": 60,
+            "mag": 15,
+            "skl": 70,
+            "spd": 60,
+            "lck": 35,
+            "def": 60,
+            "res": 35
+        },
+        "Trickster": {
+            "hp": 85,
+            "str": 50,
+            "mag": 30,
+            "skl": 65,
+            "spd": 55,
+            "lck": 35,
+            "def": 60,
+            "res": 40
+        },
+        "Priest/Cleric": {
+            "hp": 85,
+            "str": 45,
+            "mag": 30,
+            "skl": 55,
+            "spd": 50,
+            "lck": 35,
+            "def": 60,
+            "res": 45
+        },
+        "War Monk/Cleric": {
+            "hp": 95,
+            "str": 55,
+            "mag": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 35,
+            "def": 65,
+            "res": 40
+        },
+        "Mage/Sage": {
+            "hp": 85,
+            "str": 40,
+            "mag": 35,
+            "skl": 60,
+            "spd": 55,
+            "lck": 35,
+            "def": 60,
+            "res": 40
+        }
+    },
+    {
+        "name": "Donnel",
+        "Villager": {
+            "hp": 85,
+            "str": 55,
+            "mag": 15,
+            "skl": 45,
+            "spd": 50,
+            "lck": 80,
+            "def": 45,
+            "res": 20
+        },
+        "Mercenary/Hero": {
+            "hp": 95,
+            "str": 65,
+            "mag": 15,
+            "skl": 65,
+            "spd": 65,
+            "lck": 80,
+            "def": 45,
+            "res": 20
+        },
+        "Bow Knight": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 65,
+            "spd": 65,
+            "lck": 80,
+            "def": 40,
+            "res": 20
+        },
+        "Fighter/Warrior": {
+            "hp": 95,
+            "str": 70,
+            "mag": 15,
+            "skl": 60,
+            "spd": 60,
+            "lck": 80,
+            "def": 45,
+            "res": 20
+        }
+    },
+    {
+        "name": "Lon'qu",
+        "Myrmidon": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 75,
+            "spd": 75,
+            "lck": 55,
+            "def": 30,
+            "res": 25
+        },
+        "Swordmaster": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 75,
+            "spd": 75,
+            "lck": 55,
+            "def": 30,
+            "res": 30
+        },
+        "Assassin": {
+            "hp": 80,
+            "str": 55,
+            "mag": 20,
+            "skl": 80,
+            "spd": 75,
+            "lck": 55,
+            "def": 30,
+            "res": 25
+        },
+        "Thief": {
+            "hp": 75,
+            "str": 50,
+            "mag": 25,
+            "skl": 75,
+            "spd": 75,
+            "lck": 55,
+            "def": 30,
+            "res": 25
+        },
+        "Trickster": {
+            "hp": 75,
+            "str": 45,
+            "mag": 35,
+            "skl": 75,
+            "spd": 70,
+            "lck": 55,
+            "def": 30,
+            "res": 30
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 85,
+            "str": 65,
+            "mag": 20,
+            "skl": 65,
+            "spd": 65,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "Griffon Rider": {
+            "hp": 85,
+            "str": 60,
+            "mag": 20,
+            "skl": 70,
+            "spd": 70,
+            "lck": 55,
+            "def": 30,
+            "res": 25
+        }
+    },
+    {
+        "name": "Ricken",
+        "Mage/Sage": {
+            "hp": 85,
+            "str": 20,
+            "mag": 55,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 35,
+            "res": 35
+        },
+        "Dark Knight": {
+            "hp": 100,
+            "str": 35,
+            "mag": 50,
+            "skl": 45,
+            "spd": 45,
+            "lck": 65,
+            "def": 40,
+            "res": 30
+        },
+        "Cavalier": {
+            "hp": 95,
+            "str": 40,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 40,
+            "res": 30
+        },
+        "Paladin": {
+            "hp": 95,
+            "str": 40,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 40,
+            "res": 35
+        },
+        "Great Knight": {
+            "hp": 100,
+            "str": 45,
+            "mag": 35,
+            "skl": 45,
+            "spd": 45,
+            "lck": 65,
+            "def": 45,
+            "res": 30
+        },
+        "Archer": {
+            "hp": 95,
+            "str": 35,
+            "mag": 35,
+            "skl": 60,
+            "spd": 45,
+            "lck": 65,
+            "def": 40,
+            "res": 30
+        },
+        "Sniper": {
+            "hp": 95,
+            "str": 35,
+            "mag": 35,
+            "skl": 60,
+            "spd": 45,
+            "lck": 65,
+            "def": 45,
+            "res": 30
+        },
+        "Bow Knight": {
+            "hp": 100,
+            "str": 40,
+            "mag": 35,
+            "skl": 55,
+            "spd": 50,
+            "lck": 65,
+            "def": 35,
+            "res": 30
+        }
+    },
+    {
+        "name": "Maribelle",
+        "Troubadour/Valkyrie": {
+            "hp": 65,
+            "str": 20,
+            "mag": 60,
+            "skl": 50,
+            "spd": 50,
+            "lck": 80,
+            "def": 15,
+            "res": 55
+        },
+        "War Monk/Cleric": {
+            "hp": 75,
+            "str": 35,
+            "mag": 55,
+            "skl": 50,
+            "spd": 45,
+            "lck": 80,
+            "def": 20,
+            "res": 50
+        },
+        "Pegasus Knight": {
+            "hp": 70,
+            "str": 35,
+            "mag": 45,
+            "skl": 65,
+            "spd": 55,
+            "lck": 80,
+            "def": 15,
+            "res": 50
+        },
+        "Falcon Knight": {
+            "hp": 70,
+            "str": 35,
+            "mag": 50,
+            "skl": 65,
+            "spd": 55,
+            "lck": 80,
+            "def": 15,
+            "res": 50
+        },
+        "Dark Flier": {
+            "hp": 70,
+            "str": 30,
+            "mag": 55,
+            "skl": 60,
+            "spd": 50,
+            "lck": 80,
+            "def": 15,
+            "res": 50
+        },
+        "Mage/Sage": {
+            "hp": 65,
+            "str": 20,
+            "mag": 60,
+            "skl": 60,
+            "spd": 50,
+            "lck": 80,
+            "def": 15,
+            "res": 50
+        },
+        "Dark Knight": {
+            "hp": 80,
+            "str": 35,
+            "mag": 55,
+            "skl": 55,
+            "spd": 45,
+            "lck": 80,
+            "def": 20,
+            "res": 45
+        }
+    },
+    {
+        "name": "Panne",
+        "Taguel (F)": {
+            "hp": 100,
+            "str": 60,
+            "mag": 15,
+            "skl": 70,
+            "spd": 75,
+            "lck": 40,
+            "def": 50,
+            "res": 20
+        },
+        "Thief": {
+            "hp": 95,
+            "str": 60,
+            "mag": 20,
+            "skl": 75,
+            "spd": 80,
+            "lck": 40,
+            "def": 45,
+            "res": 20
+        },
+        "Assassin": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 80,
+            "spd": 80,
+            "lck": 40,
+            "def": 45,
+            "res": 20
+        },
+        "Trickster": {
+            "hp": 95,
+            "str": 55,
+            "mag": 30,
+            "skl": 75,
+            "spd": 75,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 105,
+            "str": 75,
+            "mag": 15,
+            "skl": 65,
+            "spd": 70,
+            "lck": 40,
+            "def": 50,
+            "res": 20
+        },
+        "Griffon Rider": {
+            "hp": 105,
+            "str": 70,
+            "mag": 15,
+            "skl": 70,
+            "spd": 75,
+            "lck": 40,
+            "def": 45,
+            "res": 20
+        }
+    },
+    {
+        "name": "Gaius",
+        "Thief": {
+            "hp": 85,
+            "str": 60,
+            "mag": 20,
+            "skl": 70,
+            "spd": 70,
+            "lck": 35,
+            "def": 30,
+            "res": 20
+        },
+        "Assassin": {
+            "hp": 90,
+            "str": 65,
+            "mag": 15,
+            "skl": 75,
+            "spd": 70,
+            "lck": 35,
+            "def": 30,
+            "res": 20
+        },
+        "Trickster": {
+            "hp": 85,
+            "str": 55,
+            "mag": 30,
+            "skl": 70,
+            "spd": 65,
+            "lck": 35,
+            "def": 30,
+            "res": 25
+        },
+        "Myrmidon": {
+            "hp": 90,
+            "str": 65,
+            "mag": 15,
+            "skl": 70,
+            "spd": 70,
+            "lck": 35,
+            "def": 30,
+            "res": 20
+        },
+        "Swordmaster": {
+            "hp": 90,
+            "str": 65,
+            "mag": 15,
+            "skl": 70,
+            "spd": 70,
+            "lck": 35,
+            "def": 30,
+            "res": 25
+        },
+        "Fighter/Warrior": {
+            "hp": 95,
+            "str": 70,
+            "mag": 15,
+            "skl": 65,
+            "spd": 60,
+            "lck": 35,
+            "def": 35,
+            "res": 20
+        },
+        "Mercenary/Hero": {
+            "hp": 95,
+            "str": 65,
+            "mag": 15,
+            "skl": 70,
+            "spd": 65,
+            "lck": 35,
+            "def": 35,
+            "res": 20
+        }
+    },
+    {
+        "name": "Cordelia",
+        "Pegasus Knight": {
+            "hp": 90,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 45,
+            "def": 45,
+            "res": 35
+        },
+        "Falcon Knight": {
+            "hp": 90,
+            "str": 60,
+            "mag": 25,
+            "skl": 60,
+            "spd": 60,
+            "lck": 45,
+            "def": 45,
+            "res": 35
+        },
+        "Dark Flier": {
+            "hp": 90,
+            "str": 55,
+            "mag": 30,
+            "skl": 55,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 35
+        },
+        "Mercenary/Hero": {
+            "hp": 95,
+            "str": 65,
+            "mag": 15,
+            "skl": 60,
+            "spd": 55,
+            "lck": 45,
+            "def": 50,
+            "res": 30
+        },
+        "Bow Knight": {
+            "hp": 100,
+            "str": 65,
+            "mag": 15,
+            "skl": 60,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 30
+        },
+        "Dark Mage": {
+            "hp": 100,
+            "str": 50,
+            "mag": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 35
+        },
+        "Sorcerer": {
+            "hp": 95,
+            "str": 45,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 35
+        },
+        "Dark Knight": {
+            "hp": 100,
+            "str": 60,
+            "mag": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 30
+        }
+    },
+    {
+        "name": "Gregor",
+        "Mercenary/Hero": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 15
+        },
+        "Bow Knight": {
+            "hp": 110,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 50,
+            "lck": 45,
+            "def": 45,
+            "res": 15
+        },
+        "Myrmidon": {
+            "hp": 100,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 15
+        },
+        "Swordmaster": {
+            "hp": 100,
+            "str": 60,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 20
+        },
+        "Assassin": {
+            "hp": 100,
+            "str": 60,
+            "mag": 10,
+            "skl": 70,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 15
+        },
+        "Barbarian/Berserker": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 45,
+            "def": 45,
+            "res": 15
+        },
+        "Fighter/Warrior": {
+            "hp": 105,
+            "str": 65,
+            "mag": 10,
+            "skl": 60,
+            "spd": 45,
+            "lck": 45,
+            "def": 50,
+            "res": 15
+        }
+    },
+    {
+        "name": "Nowi",
+        "Manakete": {
+            "hp": 120,
+            "str": 65,
+            "mag": 40,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 65,
+            "res": 50
+        },
+        "Mage/Sage": {
+            "hp": 105,
+            "str": 45,
+            "mag": 55,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 55,
+            "res": 45
+        },
+        "Dark Knight": {
+            "hp": 120,
+            "str": 60,
+            "mag": 50,
+            "skl": 45,
+            "spd": 45,
+            "lck": 65,
+            "def": 60,
+            "res": 40
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 115,
+            "str": 75,
+            "mag": 35,
+            "skl": 45,
+            "spd": 45,
+            "lck": 65,
+            "def": 60,
+            "res": 40
+        },
+        "Griffon Rider": {
+            "hp": 115,
+            "str": 70,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 65,
+            "def": 55,
+            "res": 40
+        }
+    },
+    {
+        "name": "Libra",
+        "War Monk/Cleric": {
+            "hp": 90,
+            "str": 40,
+            "mag": 50,
+            "skl": 55,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 40
+        },
+        "Priest/Cleric": {
+            "hp": 80,
+            "str": 30,
+            "mag": 50,
+            "skl": 60,
+            "spd": 50,
+            "lck": 45,
+            "def": 30,
+            "res": 45
+        },
+        "Mage/Sage": {
+            "hp": 80,
+            "str": 25,
+            "mag": 55,
+            "skl": 65,
+            "spd": 55,
+            "lck": 45,
+            "def": 30,
+            "res": 40
+        },
+        "Dark Knight": {
+            "hp": 95,
+            "str": 40,
+            "mag": 50,
+            "skl": 60,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 35
+        },
+        "Dark Mage": {
+            "hp": 95,
+            "str": 30,
+            "mag": 50,
+            "skl": 60,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 40
+        },
+        "Sorcerer": {
+            "hp": 90,
+            "str": 25,
+            "mag": 55,
+            "skl": 60,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 40
+        }
+    },
+    {
+        "name": "Tharja",
+        "Dark Mage": {
+            "hp": 90,
+            "str": 30,
+            "mag": 60,
+            "skl": 40,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 30
+        },
+        "Sorcerer": {
+            "hp": 85,
+            "str": 25,
+            "mag": 65,
+            "skl": 40,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 30
+        },
+        "Dark Knight": {
+            "hp": 90,
+            "str": 40,
+            "mag": 60,
+            "skl": 40,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Knight": {
+            "hp": 90,
+            "str": 50,
+            "mag": 45,
+            "skl": 40,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "General": {
+            "hp": 90,
+            "str": 50,
+            "mag": 45,
+            "skl": 40,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 30
+        },
+        "Great Knight": {
+            "hp": 90,
+            "str": 50,
+            "mag": 45,
+            "skl": 40,
+            "spd": 60,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Archer": {
+            "hp": 85,
+            "str": 40,
+            "mag": 45,
+            "skl": 55,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Sniper": {
+            "hp": 85,
+            "str": 40,
+            "mag": 45,
+            "skl": 55,
+            "spd": 60,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Bow Knight": {
+            "hp": 90,
+            "str": 45,
+            "mag": 45,
+            "skl": 50,
+            "spd": 65,
+            "lck": 40,
+            "def": 40,
+            "res": 25
+        }
+    },
+    {
+        "name": "Anna",
+        "Trickster": {
+            "hp": 80,
+            "str": 40,
+            "mag": 45,
+            "skl": 60,
+            "spd": 55,
+            "lck": 80,
+            "def": 35,
+            "res": 40
+        },
+        "Thief": {
+            "hp": 80,
+            "str": 45,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 80,
+            "def": 35,
+            "res": 35
+        },
+        "Assassin": {
+            "hp": 85,
+            "str": 50,
+            "mag": 30,
+            "skl": 65,
+            "spd": 60,
+            "lck": 80,
+            "def": 35,
+            "res": 35
+        },
+        "Archer": {
+            "hp": 90,
+            "str": 45,
+            "mag": 30,
+            "skl": 65,
+            "spd": 50,
+            "lck": 80,
+            "def": 40,
+            "res": 35
+        },
+        "Sniper": {
+            "hp": 90,
+            "str": 45,
+            "mag": 30,
+            "skl": 65,
+            "spd": 50,
+            "lck": 80,
+            "def": 45,
+            "res": 35
+        },
+        "Bow Knight": {
+            "hp": 95,
+            "str": 50,
+            "mag": 30,
+            "skl": 60,
+            "spd": 55,
+            "lck": 80,
+            "def": 35,
+            "res": 35
+        },
+        "Mage/Sage": {
+            "hp": 80,
+            "str": 30,
+            "mag": 50,
+            "skl": 55,
+            "spd": 55,
+            "lck": 80,
+            "def": 35,
+            "res": 40
+        },
+        "Dark Knight": {
+            "hp": 95,
+            "str": 45,
+            "mag": 45,
+            "skl": 50,
+            "spd": 50,
+            "lck": 80,
+            "def": 40,
+            "res": 35
+        }
+    },
+    {
+        "name": "Olivia",
+        "Dancer": {
+            "hp": 75,
+            "str": 40,
+            "mag": 25,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 25
+        },
+        "Myrmidon": {
+            "hp": 80,
+            "str": 55,
+            "mag": 25,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 25
+        },
+        "Swordmaster": {
+            "hp": 80,
+            "str": 55,
+            "mag": 25,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 30
+        },
+        "Assassin": {
+            "hp": 80,
+            "str": 55,
+            "mag": 25,
+            "skl": 75,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 25
+        },
+        "Pegasus Knight": {
+            "hp": 80,
+            "str": 50,
+            "mag": 30,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 30
+        },
+        "Falcon Knight": {
+            "hp": 80,
+            "str": 50,
+            "mag": 35,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 25,
+            "res": 30
+        },
+        "Dark Flier": {
+            "hp": 80,
+            "str": 45,
+            "mag": 40,
+            "skl": 65,
+            "spd": 65,
+            "lck": 60,
+            "def": 25,
+            "res": 30
+        }
+    },
+    {
+        "name": "Cherche",
+        "Wyvern Rider/Lord": {
+            "hp": 100,
+            "str": 70,
+            "mag": 20,
+            "skl": 55,
+            "spd": 50,
+            "lck": 50,
+            "def": 55,
+            "res": 15
+        },
+        "Griffon Rider": {
+            "hp": 100,
+            "str": 65,
+            "mag": 20,
+            "skl": 60,
+            "spd": 55,
+            "lck": 50,
+            "def": 50,
+            "res": 15
+        },
+        "Troubadour/Valkyrie": {
+            "hp": 90,
+            "str": 40,
+            "mag": 40,
+            "skl": 50,
+            "spd": 55,
+            "lck": 50,
+            "def": 50,
+            "res": 25
+        },
+        "War Monk/Cleric": {
+            "hp": 100,
+            "str": 55,
+            "mag": 35,
+            "skl": 50,
+            "spd": 50,
+            "lck": 50,
+            "def": 55,
+            "res": 20
+        },
+        "Priest/Cleric": {
+            "hp": 90,
+            "str": 45,
+            "mag": 35,
+            "skl": 55,
+            "spd": 50,
+            "lck": 50,
+            "def": 50,
+            "res": 25
+        },
+        "Mage/Sage": {
+            "hp": 90,
+            "str": 40,
+            "mag": 40,
+            "skl": 60,
+            "spd": 55,
+            "lck": 50,
+            "def": 50,
+            "res": 20
+        }
+    },
+    {
+        "name": "Henry",
+        "Dark Mage": {
+            "hp": 95,
+            "str": 40,
+            "mag": 50,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 30
+        },
+        "Sorcerer": {
+            "hp": 90,
+            "str": 35,
+            "mag": 55,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 30
+        },
+        "Dark Knight": {
+            "hp": 95,
+            "str": 50,
+            "mag": 50,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Barbarian/Berserker": {
+            "hp": 95,
+            "str": 60,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Fighter/Warrior": {
+            "hp": 90,
+            "str": 60,
+            "mag": 35,
+            "skl": 65,
+            "spd": 55,
+            "lck": 40,
+            "def": 50,
+            "res": 25
+        },
+        "Thief": {
+            "hp": 80,
+            "str": 50,
+            "mag": 40,
+            "skl": 70,
+            "spd": 65,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Assassin": {
+            "hp": 85,
+            "str": 55,
+            "mag": 35,
+            "skl": 75,
+            "spd": 65,
+            "lck": 40,
+            "def": 45,
+            "res": 25
+        },
+        "Trickster": {
+            "hp": 80,
+            "str": 45,
+            "mag": 50,
+            "skl": 70,
+            "spd": 60,
+            "lck": 40,
+            "def": 45,
+            "res": 30
+        }
+    },
+    {
+        "name": "Say'ri",
+        "Swordmaster": {
+            "hp": 90,
+            "str": 55,
+            "mag": 20,
+            "skl": 65,
+            "spd": 65,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "Myrmidon": {
+            "hp": 90,
+            "str": 55,
+            "mag": 20,
+            "skl": 65,
+            "spd": 65,
+            "lck": 45,
+            "def": 40,
+            "res": 35
+        },
+        "Assassin": {
+            "hp": 90,
+            "str": 55,
+            "mag": 20,
+            "skl": 70,
+            "spd": 65,
+            "lck": 45,
+            "def": 40,
+            "res": 35
+        },
+        "Pegasus Knight": {
+            "hp": 90,
+            "str": 50,
+            "mag": 25,
+            "skl": 65,
+            "spd": 65,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "Falcon Knight": {
+            "hp": 90,
+            "str": 50,
+            "mag": 30,
+            "skl": 65,
+            "spd": 65,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "Dark Flier": {
+            "hp": 90,
+            "str": 45,
+            "mag": 35,
+            "skl": 60,
+            "spd": 60,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 95,
+            "str": 65,
+            "mag": 20,
+            "skl": 55,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 35
+        },
+        "Griffon Rider": {
+            "hp": 95,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 45,
+            "def": 40,
+            "res": 35
+        }
+    },
+    {
+        "name": "Tiki",
+        "Manakete": {
+            "hp": 130,
+            "str": 60,
+            "mag": 45,
+            "skl": 55,
+            "spd": 50,
+            "lck": 80,
+            "def": 60,
+            "res": 60
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 125,
+            "str": 70,
+            "mag": 40,
+            "skl": 50,
+            "spd": 45,
+            "lck": 80,
+            "def": 55,
+            "res": 50
+        },
+        "Griffon Rider": {
+            "hp": 125,
+            "str": 65,
+            "mag": 40,
+            "skl": 55,
+            "spd": 50,
+            "lck": 80,
+            "def": 50,
+            "res": 50
+        },
+        "Mage/Sage": {
+            "hp": 115,
+            "str": 40,
+            "mag": 60,
+            "skl": 55,
+            "spd": 50,
+            "lck": 80,
+            "def": 50,
+            "res": 55
+        },
+        "Dark Knight": {
+            "hp": 130,
+            "str": 55,
+            "mag": 55,
+            "skl": 50,
+            "spd": 45,
+            "lck": 80,
+            "def": 55,
+            "res": 50
+        }
+    },
+    {
+        "name": "Basilio",
+        "Fighter/Warrior": {
+            "hp": 110,
+            "str": 70,
+            "mag": 10,
+            "skl": 60,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 20
+        },
+        "Barbarian/Berserker": {
+            "hp": 115,
+            "str": 70,
+            "mag": 10,
+            "skl": 55,
+            "spd": 55,
+            "lck": 45,
+            "def": 45,
+            "res": 20
+        },
+        "Mercenary/Hero": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 45,
+            "def": 50,
+            "res": 20
+        },
+        "Knight": {
+            "hp": 115,
+            "str": 70,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 45,
+            "def": 55,
+            "res": 20
+        },
+        "General": {
+            "hp": 115,
+            "str": 70,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 45,
+            "def": 55,
+            "res": 25
+        },
+        "Great Knight": {
+            "hp": 115,
+            "str": 70,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 45,
+            "def": 55,
+            "res": 20
+        }
+    },
+    {
+        "name": "Flavia",
+        "Mercenary/Hero": {
+            "hp": 95,
+            "str": 55,
+            "mag": 20,
+            "skl": 70,
+            "spd": 65,
+            "lck": 55,
+            "def": 40,
+            "res": 30
+        },
+        "Bow Knight": {
+            "hp": 100,
+            "str": 55,
+            "mag": 20,
+            "skl": 70,
+            "spd": 65,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Thief": {
+            "hp": 85,
+            "str": 50,
+            "mag": 25,
+            "skl": 70,
+            "spd": 70,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Assassin": {
+            "hp": 90,
+            "str": 55,
+            "mag": 20,
+            "skl": 75,
+            "spd": 70,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "Trickster": {
+            "hp": 85,
+            "str": 45,
+            "mag": 35,
+            "skl": 70,
+            "spd": 65,
+            "lck": 55,
+            "def": 35,
+            "res": 35
+        },
+        "Knight": {
+            "hp": 100,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 45,
+            "res": 30
+        },
+        "General": {
+            "hp": 100,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 45,
+            "res": 35
+        },
+        "Great Knight": {
+            "hp": 100,
+            "str": 60,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 45,
+            "res": 30
+        }
+    },
+    {
+        "name": "Gangrel",
+        "Trickster": {
+            "hp": 75,
+            "str": 50,
+            "mag": 45,
+            "skl": 75,
+            "spd": 70,
+            "lck": 30,
+            "def": 35,
+            "res": 40
+        },
+        "Thief": {
+            "hp": 75,
+            "str": 55,
+            "mag": 35,
+            "skl": 75,
+            "spd": 75,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "Assassin": {
+            "hp": 80,
+            "str": 60,
+            "mag": 30,
+            "skl": 80,
+            "spd": 75,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "Barbarian/Berserker": {
+            "hp": 90,
+            "str": 65,
+            "mag": 30,
+            "skl": 65,
+            "spd": 70,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "Fighter/Warrior": {
+            "hp": 85,
+            "str": 65,
+            "mag": 30,
+            "skl": 70,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        },
+        "Dark Mage": {
+            "hp": 90,
+            "str": 45,
+            "mag": 45,
+            "skl": 65,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "Sorcerer": {
+            "hp": 85,
+            "str": 40,
+            "mag": 50,
+            "skl": 65,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "Dark Knight": {
+            "hp": 90,
+            "str": 55,
+            "mag": 45,
+            "skl": 65,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        }
+    },
+    {
+        "name": "Walhart",
+        "Conqueror": {
+            "hp": 125,
+            "str": 80,
+            "mag": 15,
+            "skl": 45,
+            "spd": 45,
+            "lck": 45,
+            "def": 55,
+            "res": 35
+        },
+        "Knight": {
+            "hp": 125,
+            "str": 85,
+            "mag": 10,
+            "skl": 45,
+            "spd": 40,
+            "lck": 45,
+            "def": 60,
+            "res": 30
+        },
+        "General": {
+            "hp": 125,
+            "str": 85,
+            "mag": 10,
+            "skl": 45,
+            "spd": 40,
+            "lck": 45,
+            "def": 60,
+            "res": 35
+        },
+        "Great Knight": {
+            "hp": 125,
+            "str": 85,
+            "mag": 10,
+            "skl": 45,
+            "spd": 45,
+            "lck": 45,
+            "def": 60,
+            "res": 30
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 120,
+            "str": 90,
+            "mag": 10,
+            "skl": 45,
+            "spd": 45,
+            "lck": 45,
+            "def": 55,
+            "res": 30
+        },
+        "Griffon Rider": {
+            "hp": 120,
+            "str": 85,
+            "mag": 10,
+            "skl": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 50,
+            "res": 30
+        }
+    },
+    {
+        "name": "Emmeryn",
+        "Mage/Sage": {
+            "hp": 80,
+            "str": 10,
+            "mag": 75,
+            "skl": 60,
+            "spd": 60,
+            "lck": 70,
+            "def": 30,
+            "res": 45
+        },
+        "Priest/Cleric": {
+            "hp": 80,
+            "str": 15,
+            "mag": 70,
+            "skl": 55,
+            "spd": 55,
+            "lck": 70,
+            "def": 30,
+            "res": 50
+        },
+        "War Monk/Cleric": {
+            "hp": 90,
+            "str": 25,
+            "mag": 70,
+            "skl": 50,
+            "spd": 55,
+            "lck": 70,
+            "def": 35,
+            "res": 45
+        },
+        "Pegasus Knight": {
+            "hp": 85,
+            "str": 25,
+            "mag": 60,
+            "skl": 65,
+            "spd": 65,
+            "lck": 70,
+            "def": 30,
+            "res": 45
+        },
+        "Falcon Knight": {
+            "hp": 85,
+            "str": 25,
+            "mag": 65,
+            "skl": 65,
+            "spd": 65,
+            "lck": 70,
+            "def": 30,
+            "res": 45
+        },
+        "Dark Flier": {
+            "hp": 85,
+            "str": 20,
+            "mag": 70,
+            "skl": 60,
+            "spd": 60,
+            "lck": 70,
+            "def": 30,
+            "res": 45
+        },
+        "Troubadour/Valkyrie": {
+            "hp": 80,
+            "str": 10,
+            "mag": 75,
+            "skl": 50,
+            "spd": 60,
+            "lck": 70,
+            "def": 30,
+            "res": 50
+        }
+    },
+    {
+        "name": "Yen'fay",
+        "Swordmaster": {
+            "hp": 100,
+            "str": 65,
+            "mag": 10,
+            "skl": 70,
+            "spd": 75,
+            "lck": 60,
+            "def": 35,
+            "res": 30
+        },
+        "Myrmidon": {
+            "hp": 100,
+            "str": 65,
+            "mag": 10,
+            "skl": 70,
+            "spd": 75,
+            "lck": 60,
+            "def": 35,
+            "res": 25
+        },
+        "Assassin": {
+            "hp": 100,
+            "str": 65,
+            "mag": 10,
+            "skl": 75,
+            "spd": 75,
+            "lck": 60,
+            "def": 35,
+            "res": 25
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 105,
+            "str": 75,
+            "mag": 10,
+            "skl": 60,
+            "spd": 65,
+            "lck": 60,
+            "def": 40,
+            "res": 25
+        },
+        "Griffon Rider": {
+            "hp": 105,
+            "str": 70,
+            "mag": 10,
+            "skl": 65,
+            "spd": 70,
+            "lck": 60,
+            "def": 35,
+            "res": 25
+        },
+        "Archer": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 75,
+            "spd": 65,
+            "lck": 60,
+            "def": 40,
+            "res": 25
+        },
+        "Sniper": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 75,
+            "spd": 65,
+            "lck": 60,
+            "def": 45,
+            "res": 25
+        },
+        "Bow Knight": {
+            "hp": 110,
+            "str": 65,
+            "mag": 10,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 35,
+            "res": 25
+        }
+    },
+    {
+        "name": "Aversa",
+        "Dark Flier": {
+            "hp": 85,
+            "str": 35,
+            "mag": 60,
+            "skl": 55,
+            "spd": 60,
+            "lck": 65,
+            "def": 35,
+            "res": 40
+        },
+        "Pegasus Knight": {
+            "hp": 85,
+            "str": 40,
+            "mag": 50,
+            "skl": 60,
+            "spd": 65,
+            "lck": 65,
+            "def": 35,
+            "res": 40
+        },
+        "Falcon Knight": {
+            "hp": 85,
+            "str": 40,
+            "mag": 55,
+            "skl": 60,
+            "spd": 65,
+            "lck": 65,
+            "def": 35,
+            "res": 40
+        },
+        "Wyvern Rider/Lord": {
+            "hp": 90,
+            "str": 55,
+            "mag": 45,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 40,
+            "res": 35
+        },
+        "Griffon Rider": {
+            "hp": 90,
+            "str": 50,
+            "mag": 45,
+            "skl": 55,
+            "spd": 60,
+            "lck": 65,
+            "def": 35,
+            "res": 35
+        },
+        "Dark Mage": {
+            "hp": 95,
+            "str": 30,
+            "mag": 60,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 40,
+            "res": 40
+        },
+        "Sorcerer": {
+            "hp": 90,
+            "str": 25,
+            "mag": 65,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 40,
+            "res": 40
+        },
+        "Dark Knight": {
+            "hp": 95,
+            "str": 40,
+            "mag": 60,
+            "skl": 50,
+            "spd": 55,
+            "lck": 65,
+            "def": 40,
+            "res": 35
+        }
+    },
+    {
+        "name": "Priam",
+        "Mercenary/Hero": {
+            "hp": 125,
+            "str": 80,
+            "mag": 10,
+            "skl": 65,
+            "spd": 50,
+            "lck": 50,
+            "def": 50,
+            "res": 15
+        },
+        "Bow Knight": {
+            "hp": 130,
+            "str": 80,
+            "mag": 10,
+            "skl": 65,
+            "spd": 50,
+            "lck": 50,
+            "def": 45,
+            "res": 15
+        },
+        "Myrmidon": {
+            "hp": 120,
+            "str": 80,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 50,
+            "def": 45,
+            "res": 15
+        },
+        "Swordmaster": {
+            "hp": 120,
+            "str": 80,
+            "mag": 10,
+            "skl": 65,
+            "spd": 55,
+            "lck": 50,
+            "def": 45,
+            "res": 20
+        },
+        "Assassin": {
+            "hp": 120,
+            "str": 80,
+            "mag": 10,
+            "skl": 70,
+            "spd": 55,
+            "lck": 50,
+            "def": 45,
+            "res": 15
+        },
+        "Fighter/Warrior": {
+            "hp": 125,
+            "str": 85,
+            "mag": 10,
+            "skl": 60,
+            "spd": 45,
+            "lck": 50,
+            "def": 50,
+            "res": 15
+        }
+    }
+]
